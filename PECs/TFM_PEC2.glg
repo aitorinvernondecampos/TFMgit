@@ -1,0 +1,7 @@
+This is makeindex, version 2.17 [TeX Live 2023] (kpathsea + Thai support).
+Scanning style file ./TFM_PEC2.ist...........................done (27 attributes redefined, 0 ignored).
+Scanning input file TFM_PEC2.glo....done (24 entries accepted, 0 rejected).
+Sorting entries....done (125 comparisons).
+Generating output file TFM_PEC2.gls....done (51 lines written, 0 warnings).
+Output written in TFM_PEC2.gls.
+Transcript written in TFM_PEC2.glg.

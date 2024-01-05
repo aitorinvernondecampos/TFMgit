@@ -1,0 +1,577 @@
+"Datos","Modelo","alpha","S","n","Var","q","loc","stdev","Cor","delta","lambda","Método","Potencia","tcomp"
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0,1000,"MANTA",0.056,1.07689380645752
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0,1000,"MANTA",0.054,1.03740167617798
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0,1000,"MANTA",0.057,1.05506300926208
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0,1000,"MANTA",0.053,1.02173042297363
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.002,1000,"MANTA",0.093,1.10377359390259
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.002,1000,"MANTA",0.094,1.04236149787903
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.002,1000,"MANTA",0.056,1.0648729801178
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.002,1000,"MANTA",0.095,1.05738973617554
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.002,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.002,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.004,1000,"MANTA",0.272,1.09256625175476
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.004,1000,"MANTA",0.272,1.04676628112793
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.004,1000,"MANTA",0.055,1.07581210136414
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.004,1000,"MANTA",0.273,1.02254295349121
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.004,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.004,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.006,1000,"MANTA",0.593,1.12943696975708
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.006,1000,"MANTA",0.59,1.04101037979126
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.006,1000,"MANTA",0.057,1.07162642478943
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.006,1000,"MANTA",0.593,1.02184820175171
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.006,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.006,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.008,1000,"MANTA",0.839,1.11821985244751
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.008,1000,"MANTA",0.839,1.02889060974121
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.008,1000,"MANTA",0.056,1.06528258323669
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.008,1000,"MANTA",0.841,1.02474451065063
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.008,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.008,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.01,1000,"MANTA",0.97,1.09486651420593
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.01,1000,"MANTA",0.971,1.03894877433777
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.01,1000,"MANTA",0.068,1.06851625442505
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.01,1000,"MANTA",0.971,1.01931834220886
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.01,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.01,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.012,1000,"MANTA",0.998,1.08965873718262
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.012,1000,"MANTA",0.998,1.05436849594116
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.012,1000,"MANTA",0.085,1.10374999046326
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.012,1000,"MANTA",0.998,1.02641224861145
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.012,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.012,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.016,1000,"MANTA",1,1.12328958511353
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.016,1000,"MANTA",1,1.05142784118652
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.016,1000,"MANTA",0.158,1.07353806495667
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.016,1000,"MANTA",1,1.19551801681519
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.016,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.016,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.02,1000,"MANTA",1,1.12029576301575
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.02,1000,"MANTA",1,1.05143880844116
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.02,1000,"MANTA",0.301,1.07894802093506
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.02,1000,"MANTA",1,1.61768102645874
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.02,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.02,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.024,1000,"MANTA",1,1.11932969093323
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.024,1000,"MANTA",1,1.05187487602234
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.024,1000,"MANTA",0.591,1.06954503059387
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.024,1000,"MANTA",1,5.45602035522461
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.024,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.024,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.028,1000,"MANTA",1,1.11062669754028
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.028,1000,"MANTA",1,1.03296089172363
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.028,1000,"MANTA",0.817,1.05719804763794
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.028,1000,"MANTA",1,26.7448554039001
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.028,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.028,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.032,1000,"MANTA",1,1.25818872451782
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.032,1000,"MANTA",1,1.02819347381592
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.032,1000,"MANTA",0.959,1.05846858024597
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.032,1000,"MANTA",1,109.610272169113
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.032,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.032,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0,1000,"MANTA",0.049,1.13581418991089
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0,1000,"MANTA",0.053,1.27818965911865
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0,1000,"MANTA",0.052,1.27232503890991
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0,1000,"MANTA",0.052,1.04670596122742
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.002,1000,"MANTA",0.101,1.15486645698547
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.002,1000,"MANTA",0.094,1.06935620307922
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.002,1000,"MANTA",0.093,1.30654692649841
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.002,1000,"MANTA",0.089,1.03149819374084
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.002,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.002,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.004,1000,"MANTA",0.282,1.12703394889832
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.004,1000,"MANTA",0.26,1.06709599494934
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.004,1000,"MANTA",0.259,1.37975001335144
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.004,1000,"MANTA",0.254,1.03898358345032
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.004,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.004,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.006,1000,"MANTA",0.581,1.14237380027771
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.006,1000,"MANTA",0.557,1.21498823165894
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.006,1000,"MANTA",0.557,1.54860472679138
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.006,1000,"MANTA",0.525,1.04701137542725
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.006,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.006,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.008,1000,"MANTA",0.827,1.15098571777344
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.008,1000,"MANTA",0.804,1.05391693115234
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.008,1000,"MANTA",0.803,1.85384821891785
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.008,1000,"MANTA",0.785,1.01907157897949
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.008,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.008,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.01,1000,"MANTA",0.96,1.13794493675232
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.01,1000,"MANTA",0.945,1.06388640403748
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.01,1000,"MANTA",0.949,2.65863537788391
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.01,1000,"MANTA",0.936,1.03499746322632
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.01,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.01,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.012,1000,"MANTA",0.997,1.32626032829285
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.012,1000,"MANTA",0.996,1.04946255683899
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.012,1000,"MANTA",0.996,3.83649826049805
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.012,1000,"MANTA",0.991,1.10974144935608
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.012,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.012,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.016,1000,"MANTA",1,1.12081456184387
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.016,1000,"MANTA",1,1.06099724769592
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.016,1000,"MANTA",1,8.22564601898193
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.016,1000,"MANTA",1,1.15269255638123
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.016,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.016,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.02,1000,"MANTA",1,1.10033583641052
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.02,1000,"MANTA",1,1.03426313400269
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.02,1000,"MANTA",1,14.2148032188416
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.02,1000,"MANTA",1,1.38612771034241
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.02,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.02,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.024,1000,"MANTA",1,1.10859084129333
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.024,1000,"MANTA",1,1.04669880867004
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.024,1000,"MANTA",1,24.8018379211426
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.024,1000,"MANTA",1,3.47553873062134
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.024,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.024,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.028,1000,"MANTA",1,1.10114073753357
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.028,1000,"MANTA",1,1.03581953048706
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.028,1000,"MANTA",1,39.0276629924774
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.028,1000,"MANTA",1,21.3618204593658
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.028,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.028,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.032,1000,"MANTA",1,1.26403975486755
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.032,1000,"MANTA",1,1.04211711883545
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.032,1000,"MANTA",1,51.2871022224426
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.032,1000,"MANTA",1,77.8839457035065
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.032,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.032,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0,1000,"MANTA",0.048,1.1045868396759
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0,1000,"MANTA",0.05,1.03961658477783
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0,1000,"MANTA",0.05,1.07705426216125
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0,1000,"MANTA",0.052,1.04422402381897
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.002,1000,"MANTA",0.1,1.10289812088013
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.002,1000,"MANTA",0.095,1.03998064994812
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.002,1000,"MANTA",0.094,1.0898323059082
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.002,1000,"MANTA",0.083,1.04499816894531
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.002,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.002,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.004,1000,"MANTA",0.266,1.10735201835632
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.004,1000,"MANTA",0.246,1.05568313598633
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.004,1000,"MANTA",0.245,1.21847128868103
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.004,1000,"MANTA",0.229,1.05329442024231
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.004,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.004,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.006,1000,"MANTA",0.548,1.12111616134644
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.006,1000,"MANTA",0.524,1.04478430747986
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.006,1000,"MANTA",0.521,1.14362001419067
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.006,1000,"MANTA",0.488,1.06934523582458
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.006,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.006,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.008,1000,"MANTA",0.787,1.17654657363892
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.008,1000,"MANTA",0.766,1.06466507911682
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.008,1000,"MANTA",0.766,1.06709480285645
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.008,1000,"MANTA",0.752,1.04795932769775
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.008,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.008,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.01,1000,"MANTA",0.941,1.19644260406494
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.01,1000,"MANTA",0.922,1.12895512580872
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.01,1000,"MANTA",0.922,1.08676481246948
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.01,1000,"MANTA",0.906,1.08201169967651
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.01,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.01,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.012,1000,"MANTA",0.993,1.14336109161377
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.012,1000,"MANTA",0.987,1.12657380104065
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.012,1000,"MANTA",0.987,1.073401927948
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.012,1000,"MANTA",0.984,1.08257269859314
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.012,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.012,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.016,1000,"MANTA",1,1.11683177947998
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.016,1000,"MANTA",1,1.0530903339386
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.016,1000,"MANTA",1,1.15998721122742
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.016,1000,"MANTA",1,1.57949924468994
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.016,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.016,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.02,1000,"MANTA",1,1.17965388298035
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.02,1000,"MANTA",1,1.0491681098938
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.02,1000,"MANTA",1,1.34217834472656
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.02,1000,"MANTA",1,5.10437536239624
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.02,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.02,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.024,1000,"MANTA",1,1.11688685417175
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.024,1000,"MANTA",1,1.05858325958252
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.024,1000,"MANTA",1,1.24319887161255
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.024,1000,"MANTA",1,17.5292372703552
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.024,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.024,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.028,1000,"MANTA",1,1.13034200668335
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.028,1000,"MANTA",1,1.04376673698425
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.028,1000,"MANTA",1,1.15696835517883
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.028,1000,"MANTA",1,60.7360556125641
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.028,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.028,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.032,1000,"MANTA",1,1.17597317695618
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.032,1000,"MANTA",1,1.05915307998657
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.032,1000,"MANTA",1,1.1524224281311
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.032,1000,"MANTA",1,164.999059677124
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.032,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.032,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0,1000,"MANTA",0.052,1.26074504852295
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0,1000,"MANTA",0.046,1.03907084465027
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0,1000,"MANTA",0.046,1.06568479537964
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0,1000,"MANTA",0.051,1.1421947479248
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.002,1000,"MANTA",0.102,1.1000964641571
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.002,1000,"MANTA",0.097,1.03620862960815
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.002,1000,"MANTA",0.095,1.0695071220398
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.002,1000,"MANTA",0.086,1.07077717781067
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.002,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.002,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.004,1000,"MANTA",0.268,1.10293340682983
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.004,1000,"MANTA",0.248,1.03931140899658
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.004,1000,"MANTA",0.247,1.06971669197083
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.004,1000,"MANTA",0.224,1.10105013847351
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.004,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.004,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.006,1000,"MANTA",0.537,1.11611866950989
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.006,1000,"MANTA",0.515,1.0439076423645
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.006,1000,"MANTA",0.512,1.11040282249451
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.006,1000,"MANTA",0.486,1.17855620384216
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.006,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.006,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.008,1000,"MANTA",0.78,1.129075050354
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.008,1000,"MANTA",0.761,1.17694926261902
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.008,1000,"MANTA",0.76,1.06469321250916
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.008,1000,"MANTA",0.744,1.50730133056641
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.008,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.008,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.01,1000,"MANTA",0.935,1.12668085098267
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.01,1000,"MANTA",0.922,1.02233123779297
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.01,1000,"MANTA",0.92,1.05972290039062
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.01,1000,"MANTA",0.902,2.31250047683716
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.01,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.01,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.012,1000,"MANTA",0.991,1.10753059387207
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.012,1000,"MANTA",0.987,1.02356362342834
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.012,1000,"MANTA",0.987,1.06991386413574
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.012,1000,"MANTA",0.98,3.97465753555298
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.012,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.012,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.016,1000,"MANTA",1,1.11740159988403
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.016,1000,"MANTA",1,1.02669715881348
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.016,1000,"MANTA",1,1.07129645347595
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.016,1000,"MANTA",1,12.9097194671631
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.016,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.016,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.02,1000,"MANTA",1,1.10554099082947
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.02,1000,"MANTA",1,1.02214360237122
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.02,1000,"MANTA",1,1.05659699440002
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.02,1000,"MANTA",1,40.2070441246033
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.02,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.02,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.024,1000,"MANTA",1,1.08044362068176
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.024,1000,"MANTA",1,1.03247261047363
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.024,1000,"MANTA",1,1.05371522903442
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.024,1000,"MANTA",1,85.6852850914001
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.024,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.024,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.028,1000,"MANTA",1,1.10443377494812
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.028,1000,"MANTA",1,1.07950568199158
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.028,1000,"MANTA",1,1.05280137062073
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.028,1000,"MANTA",1,165.905681610107
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.028,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.028,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.032,1000,"MANTA",1,1.10558319091797
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.032,1000,"MANTA",1,1.07021951675415
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.032,1000,"MANTA",1,1.05274105072021
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.032,1000,"MANTA",1,226.825486421585
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.032,1000,"MANTA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.032,1000,"MANTA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.002,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.002,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.002,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.002,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.002,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.002,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.004,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.004,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.004,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.004,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.004,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.004,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.006,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.006,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.006,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.006,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.006,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.006,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.008,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.008,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.008,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.008,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.008,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.008,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.01,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.01,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.01,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.01,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.01,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.01,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.012,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.012,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.012,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.012,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.012,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.012,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.016,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.016,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.016,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.016,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.016,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.016,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.02,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.02,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.02,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.02,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.02,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.02,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.024,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.024,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.024,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.024,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.024,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.024,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.028,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.028,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.028,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.028,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.028,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.028,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.032,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.032,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.032,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.032,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.032,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,1,0.025,NA,0.032,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.002,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.002,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.002,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.002,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.002,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.002,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.004,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.004,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.004,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.004,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.004,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.004,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.006,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.006,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.006,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.006,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.006,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.006,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.008,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.008,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.008,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.008,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.008,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.008,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.01,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.01,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.01,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.01,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.01,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.01,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.012,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.012,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.012,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.012,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.012,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.012,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.016,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.016,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.016,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.016,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.016,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.016,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.02,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.02,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.02,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.02,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.02,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.02,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.024,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.024,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.024,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.024,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.024,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.024,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.028,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.028,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.028,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.028,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.028,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.028,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.032,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.032,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.032,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.032,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.032,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,2,0.024,NA,0.032,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.002,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.002,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.002,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.002,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.002,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.002,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.004,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.004,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.004,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.004,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.004,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.004,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.006,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.006,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.006,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.006,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.006,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.006,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.008,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.008,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.008,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.008,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.008,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.008,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.01,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.01,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.01,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.01,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.01,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.01,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.012,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.012,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.012,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.012,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.012,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.012,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.016,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.016,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.016,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.016,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.016,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.016,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.02,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.02,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.02,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.02,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.02,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.02,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.024,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.024,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.024,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.024,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.024,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.024,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.028,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.028,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.028,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.028,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.028,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.028,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.032,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.032,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.032,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.032,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.032,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,3,0.024,NA,0.032,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.002,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.002,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.002,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.002,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.002,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.002,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.004,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.004,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.004,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.004,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.004,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.004,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.006,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.006,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.006,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.006,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.006,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.006,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.008,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.008,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.008,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.008,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.008,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.008,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.01,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.01,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.01,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.01,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.01,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.01,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.012,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.012,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.012,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.012,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.012,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.012,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.016,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.016,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.016,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.016,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.016,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.016,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.02,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.02,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.02,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.02,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.02,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.02,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.024,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.024,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.024,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.024,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.024,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.024,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.028,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.028,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.028,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.028,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.028,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.028,1000,"MANOVA",NA,NA
+"Datos sin transformar","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.032,1000,"MANOVA",NA,NA
+"Transformación logarítmica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.032,1000,"MANOVA",NA,NA
+"Transformación Centered Log Ratio (clr)","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.032,1000,"MANOVA",NA,NA
+"Transformación raíz cuadrada","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.032,1000,"MANOVA",NA,NA
+"Escalado de datos por desviación típica","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.032,1000,"MANOVA",NA,NA
+"Normalización Min- Max","simplex",0.05,1000,300,"equal",3,5,0.023,NA,0.032,1000,"MANOVA",NA,NA

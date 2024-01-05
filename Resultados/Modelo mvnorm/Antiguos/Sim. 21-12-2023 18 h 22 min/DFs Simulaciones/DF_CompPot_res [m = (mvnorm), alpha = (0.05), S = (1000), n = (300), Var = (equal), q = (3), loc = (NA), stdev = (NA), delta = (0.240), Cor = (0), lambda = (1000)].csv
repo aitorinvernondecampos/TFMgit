@@ -1,0 +1,7 @@
+"Datos","Modelo","alpha","S","n","Var","q","loc","stdev","Cor","delta","lambda","Pot_MANTA","tcomp_MANTA","Pot_MANOVA","tcomp_MANOVA"
+"Datos sin transformar","mvnorm",0.05,1000,300,"equal",3,NA,NA,0,0.24,1000,0.999,1.10245728492737,0.997,0.694987773895264
+"Transformación logarítmica","mvnorm",0.05,1000,300,"equal",3,NA,NA,0,0.24,1000,0.997,1.14243865013123,0.997,0.733267784118652
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,"equal",3,NA,NA,0,0.24,1000,0.075,1.1498122215271,0.065,0.801623344421387
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,"equal",3,NA,NA,0,0.24,1000,0.997,1.11215901374817,0.997,0.690397500991821
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,"equal",3,NA,NA,0,0.24,1000,1,1.10154485702515,0.997,0.687461376190186
+"Normalización Min- Max","mvnorm",0.05,1000,300,"equal",3,NA,NA,0,0.24,1000,0.999,1.07849359512329,0.997,0.833374738693237

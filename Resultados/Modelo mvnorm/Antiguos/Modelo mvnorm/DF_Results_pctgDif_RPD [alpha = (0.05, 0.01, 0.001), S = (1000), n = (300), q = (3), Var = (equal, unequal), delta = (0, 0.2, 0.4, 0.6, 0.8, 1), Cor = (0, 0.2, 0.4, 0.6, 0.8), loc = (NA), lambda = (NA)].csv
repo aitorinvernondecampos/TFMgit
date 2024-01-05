@@ -1,0 +1,1081 @@
+"Datos","Modelo","alpha","S","n","q","Var","delta","Cor","loc","lambda","Pot_MANTA","tcomp_MANTA","Pot_MANOVA","tcomp_MANOVA","δ Potencia (%)","RPD Potencia (%)"
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0,0,1,NA,0.049,1.11971926689148,0.052,0.705285549163818,0.3,5.94059405940593
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0,0.2,1,NA,0.04,1.17829036712646,0.052,0.70381760597229,1.2,26.0869565217391
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0,0.4,1,NA,0.044,1.1012589931488,0.052,0.756084203720093,0.8,16.6666666666667
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0,0.6,1,NA,0.047,1.09225678443909,0.052,0.689352750778198,0.5,10.1010101010101
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0,0.8,1,NA,0.049,1.0720808506012,0.052,0.7064368724823,0.3,5.94059405940593
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0.2,0,1,NA,0.965,1.29920220375061,0.964,0.68806791305542,0.1,0.103680663556247
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0.2,0.2,1,NA,0.951,1.07772493362427,0.888,0.673742294311523,6.3,6.85154975530179
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0.2,0.4,1,NA,0.909,1.05269861221313,0.777,0.713668346405029,13.2,15.6583629893238
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0.2,0.6,1,NA,0.848,1.06239080429077,0.661,0.700472116470337,18.7,24.7846255798542
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0.2,0.8,1,NA,0.795,1.10152697563171,0.573,0.691673278808594,22.2,32.4561403508772
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0.4,0,1,NA,1,1.08706617355347,1,0.690763473510742,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0.4,0.2,1,NA,1,1.07530283927917,1,0.691452741622925,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0.4,0.4,1,NA,1,1.07317805290222,1,0.709106206893921,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0.4,0.6,1,NA,1,1.33295440673828,1,0.690608501434326,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0.4,0.8,1,NA,1,1.12743139266968,0.999,0.70161247253418,0.1,0.100050025012506
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0.6,0,1,NA,1,1.07200312614441,1,0.68949818611145,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0.6,0.2,1,NA,1,1.08178114891052,1,0.695847034454346,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0.6,0.4,1,NA,1,1.09997224807739,1,0.942773580551147,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0.6,0.6,1,NA,1,1.36133241653442,1,0.708991050720215,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0.6,0.8,1,NA,1,1.20759201049805,1,0.705202102661133,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0.8,0,1,NA,1,1.10159873962402,1,0.854227542877197,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0.8,0.2,1,NA,1,1.07208895683289,1,0.689960241317749,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0.8,0.4,1,NA,1,1.07693982124329,1,0.689613819122314,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0.8,0.6,1,NA,1,1.10259485244751,1,0.714600086212158,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",0.8,0.8,1,NA,1,1.16261601448059,1,0.720330715179443,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",1,0,1,NA,1,1.07292413711548,1,0.706848382949829,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",1,0.2,1,NA,1,1.07650089263916,1,0.691972494125366,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",1,0.4,1,NA,1,1.11643624305725,1,0.692427635192871,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",1,0.6,1,NA,1,1.15114259719849,1,1.04726934432983,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"equal",1,0.8,1,NA,1,1.43857979774475,1,0.696390628814697,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0,0,1,NA,0.043,1.09240961074829,0.052,0.708783388137817,0.9,18.9473684210526
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0,0.2,1,NA,0.041,1.07088279724121,0.052,0.722494602203369,1.1,23.6559139784946
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0,0.4,1,NA,0.047,1.07219409942627,0.052,0.707706689834595,0.5,10.1010101010101
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0,0.6,1,NA,0.045,1.11156511306763,0.052,0.802304983139038,0.7,14.4329896907216
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0,0.8,1,NA,0.048,1.31480383872986,0.052,0.70956563949585,0.4,7.99999999999999
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0.2,0,1,NA,1,1.33637356758118,1,0.689573049545288,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0.2,0.2,1,NA,1,1.35021829605103,1,0.693743467330933,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0.2,0.4,1,NA,1,1.11365985870361,1,0.716627359390259,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0.2,0.6,1,NA,1,1.1011700630188,1,1.08462977409363,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0.2,0.8,1,NA,1,1.1678352355957,1,0.71170163154602,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0.4,0,1,NA,1,1.09761571884155,1,0.708672285079956,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0.4,0.2,1,NA,1,1.12325382232666,1,0.698211908340454,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0.4,0.4,1,NA,1,1.39779138565063,1,0.712538003921509,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0.4,0.6,1,NA,1,1.1432101726532,1,0.951679706573486,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0.4,0.8,1,NA,1,1.53506922721863,1,1.02269625663757,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0.6,0,1,NA,1,1.09524369239807,1,0.791041851043701,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0.6,0.2,1,NA,1,1.10775184631348,1,0.68120002746582,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0.6,0.4,1,NA,1,1.07635402679443,1,0.867482423782349,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0.6,0.6,1,NA,1,1.09617972373962,1,0.683863162994385,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0.6,0.8,1,NA,1,1.25382995605469,1,0.686038494110107,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0.8,0,1,NA,1,1.06621742248535,1,0.686129331588745,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0.8,0.2,1,NA,1,1.06752133369446,1,0.684437990188599,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0.8,0.4,1,NA,1,1.05578470230103,1,0.705402851104736,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0.8,0.6,1,NA,1,1.09280681610107,1,0.762137174606323,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",0.8,0.8,1,NA,1,1.26417255401611,1,0.685632228851318,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",1,0,1,NA,1,1.10105061531067,1,0.700001001358032,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",1,0.2,1,NA,1,1.07513284683228,1,0.68854808807373,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",1,0.4,1,NA,1,1.07663440704346,1,0.684307098388672,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",1,0.6,1,NA,1,1.10734820365906,1,0.684675216674805,0,0
+"Datos sin transformar","mvnorm",0.05,1000,300,3,"unequal",1,0.8,1,NA,1,1.24466300010681,1,0.704442024230957,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0,0,1,NA,0.007,1.04605054855347,0.003,0.686116695404053,0.4,80
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0,0.2,1,NA,0.008,1.11456727981567,0.003,0.661890983581543,0.5,90.9090909090909
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0,0.4,1,NA,0.012,1.07341742515564,0.003,0.686180830001831,0.9,120
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0,0.6,1,NA,0.012,1.36533951759338,0.003,0.681137800216675,0.9,120
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0,0.8,1,NA,0.011,1.04398393630981,0.003,0.682234048843384,0.8,114.285714285714
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0.2,0,1,NA,0.904,1.12635731697083,0.895,0.685540914535522,0.900000000000001,1.00055586436909
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0.2,0.2,1,NA,0.857,1.11465644836426,0.746,0.683907985687256,11.1,13.8490330630069
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0.2,0.4,1,NA,0.771,1.10306572914124,0.54,0.726179361343384,23.1,35.2402745995423
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0.2,0.6,1,NA,0.648,1.08408617973328,0.419,0.739918947219849,22.9,42.9240862230553
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0.2,0.8,1,NA,0.552,1.29381728172302,0.327,1.01778841018677,22.5,51.1945392491468
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0.4,0,1,NA,1,1.10378885269165,1,0.713822841644287,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0.4,0.2,1,NA,1,1.08256363868713,1,0.685487747192383,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0.4,0.4,1,NA,1,1.0425226688385,1,0.681216716766357,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0.4,0.6,1,NA,1,1.06557822227478,0.999,0.661165714263916,0.1,0.100050025012506
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0.4,0.8,1,NA,0.999,1.11339807510376,0.995,0.663963079452515,0.4,0.401203610832498
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0.6,0,1,NA,1,1.05952000617981,1,0.682751417160034,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0.6,0.2,1,NA,1,1.10297012329102,1,0.673127174377441,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0.6,0.4,1,NA,1,1.14427828788757,1,0.664427280426025,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0.6,0.6,1,NA,1,1.07210278511047,1,0.727214336395264,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0.6,0.8,1,NA,1,1.12574887275696,1,0.663831949234009,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0.8,0,1,NA,1,1.0444917678833,1,0.681087493896484,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0.8,0.2,1,NA,1,1.04076480865479,1,0.707273244857788,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0.8,0.4,1,NA,1,1.1314811706543,1,0.692608833312988,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0.8,0.6,1,NA,1,1.06887102127075,1,0.668705701828003,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",0.8,0.8,1,NA,1,1.1147735118866,1,0.684735298156738,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",1,0,1,NA,1,1.04601216316223,1,0.666175603866577,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",1,0.2,1,NA,1,1.08906984329224,1,0.661890506744385,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",1,0.4,1,NA,1,1.11129975318909,1,0.717243671417236,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",1,0.6,1,NA,1,1.11257648468018,1,0.683836221694946,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"equal",1,0.8,1,NA,1,1.11123538017273,1,0.683241128921509,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0,0,1,NA,0.009,1.11707758903503,0.003,0.661449193954468,0.6,100
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0,0.2,1,NA,0.008,1.04463791847229,0.003,0.899338245391846,0.5,90.9090909090909
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0,0.4,1,NA,0.01,1.07260179519653,0.003,1.02110409736633,0.7,107.692307692308
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0,0.6,1,NA,0.011,1.09729099273682,0.003,0.68750524520874,0.8,114.285714285714
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0,0.8,1,NA,0.011,1.06682252883911,0.003,0.682214021682739,0.8,114.285714285714
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0.2,0,1,NA,1,1.16918182373047,1,0.685879468917847,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0.2,0.2,1,NA,1,1.07991313934326,1,0.683242321014404,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0.2,0.4,1,NA,1,1.09771299362183,1,0.70732045173645,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0.2,0.6,1,NA,1,1.20806741714478,0.999,0.731922388076782,0.1,0.100050025012506
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0.2,0.8,1,NA,0.998,1.17861342430115,1,0.889917850494385,0.2,0.2002002002002
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0.4,0,1,NA,1,1.08573508262634,1,0.702038288116455,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0.4,0.2,1,NA,1,1.06529474258423,1,0.683154821395874,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0.4,0.4,1,NA,1,1.05954003334045,1,0.689635276794434,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0.4,0.6,1,NA,1,1.09775876998901,1,0.703548669815063,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0.4,0.8,1,NA,1,1.22564578056335,1,0.755297899246216,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0.6,0,1,NA,1,1.05942392349243,1,0.68098521232605,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0.6,0.2,1,NA,1,1.07909154891968,1,0.646042346954346,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0.6,0.4,1,NA,1,1.16205835342407,1,0.703184127807617,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0.6,0.6,1,NA,1,1.10684895515442,1,0.682631731033325,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0.6,0.8,1,NA,1,1.23664569854736,1,0.701875925064087,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0.8,0,1,NA,1,1.13110947608948,1,0.682599782943726,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0.8,0.2,1,NA,1,1.2748715877533,1,0.764899492263794,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0.8,0.4,1,NA,1,1.11958003044128,1,1.05163168907166,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0.8,0.6,1,NA,1,1.12374997138977,1,0.699895858764648,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",0.8,0.8,1,NA,1,1.42944097518921,1,0.708147764205933,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",1,0,1,NA,1,1.08918762207031,1,0.887819766998291,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",1,0.2,1,NA,1,1.07858300209045,1,0.679964303970337,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",1,0.4,1,NA,1,1.25815391540527,1,0.758727788925171,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",1,0.6,1,NA,1,1.12463545799255,1,0.698014736175537,0,0
+"Datos sin transformar","mvnorm",0.01,1000,300,3,"unequal",1,0.8,1,NA,1,1.28982758522034,1,0.871848583221436,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0,0,1,NA,0,1.09867835044861,0,0.663567543029785,0,NA
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0,0.2,1,NA,0,1.07591152191162,0,0.697874069213867,0,NA
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0,0.4,1,NA,0,1.05641889572144,0,0.677488088607788,0,NA
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0,0.6,1,NA,0,1.24393272399902,0,0.729601144790649,0,NA
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0,0.8,1,NA,0.001,1.10036683082581,0,0.683066606521606,0.1,200
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0.2,0,1,NA,0.736,1.070317029953,0.698,0.695414066314697,3.8,5.29986052998606
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0.2,0.2,1,NA,0.682,1.07798385620117,0.464,0.756436824798584,21.8,38.0453752181501
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0.2,0.4,1,NA,0.485,1.08744668960571,0.26,0.686256170272827,22.5,60.4026845637584
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0.2,0.6,1,NA,0.383,1.07608652114868,0.172,0.697509050369263,21.1,76.036036036036
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0.2,0.8,1,NA,0.279,1.37674331665039,0.123,0.701590776443481,15.6,77.6119402985075
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0.4,0,1,NA,1,1.09237122535706,1,0.692697286605835,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0.4,0.2,1,NA,1,1.10162830352783,1,0.680877923965454,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0.4,0.4,1,NA,1,1.08008360862732,0.998,0.777109146118164,0.2,0.2002002002002
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0.4,0.6,1,NA,0.998,1.06477761268616,0.988,0.700464248657227,1,1.00704934541793
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0.4,0.8,1,NA,0.994,1.1869809627533,0.955,0.69536018371582,3.9,4.00205233453053
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0.6,0,1,NA,1,1.07088470458984,1,0.660562992095947,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0.6,0.2,1,NA,1,1.05953311920166,1,0.683333396911621,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0.6,0.4,1,NA,1,1.10257792472839,1,0.7000572681427,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0.6,0.6,1,NA,1,1.09651279449463,1,0.727201461791992,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0.6,0.8,1,NA,1,1.23121356964111,1,0.665692806243896,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0.8,0,1,NA,1,1.05823421478271,1,0.859770774841309,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0.8,0.2,1,NA,1,1.07371830940247,1,0.675151586532593,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0.8,0.4,1,NA,1,1.07833695411682,1,0.679576873779297,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0.8,0.6,1,NA,1,1.06963777542114,1,0.664088726043701,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",0.8,0.8,1,NA,1,1.17050409317017,1,0.698156595230103,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",1,0,1,NA,1,1.04102301597595,1,0.680467367172241,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",1,0.2,1,NA,1,1.0595211982727,1,0.682595491409302,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",1,0.4,1,NA,1,1.10293340682983,1,0.696871280670166,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",1,0.6,1,NA,1,1.1031858921051,1,0.683419227600098,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"equal",1,0.8,1,NA,1,1.16857028007507,1,0.683288335800171,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0,0,1,NA,0.001,1.09432816505432,0,0.662853240966797,0.1,200
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0,0.2,1,NA,0.001,1.32711005210876,0,0.66820502281189,0.1,200
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0,0.4,1,NA,0.001,1.07754492759705,0,0.697469234466553,0.1,200
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0,0.6,1,NA,0.001,1.2732150554657,0,0.662766695022583,0.1,200
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0,0.8,1,NA,0.001,1.10703659057617,0,0.703977823257446,0.1,200
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0.2,0,1,NA,1,1.05845165252686,1,0.679918766021729,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0.2,0.2,1,NA,0.999,1.07881093025208,1,0.681044101715088,0.1,0.100050025012506
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0.2,0.4,1,NA,0.999,1.13998818397522,0.999,0.709880590438843,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0.2,0.6,1,NA,0.985,1.08852624893188,0.995,0.709015369415283,1,1.01010101010101
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0.2,0.8,1,NA,0.955,1.13971781730652,0.998,0.773113012313843,4.3,4.40348182283667
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0.4,0,1,NA,1,1.13086175918579,1,1.01984214782715,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0.4,0.2,1,NA,1,1.06544613838196,1,0.681373357772827,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0.4,0.4,1,NA,1,1.05321455001831,1,0.756558895111084,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0.4,0.6,1,NA,1,1.08122038841248,1,0.686466693878174,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0.4,0.8,1,NA,1,1.2209575176239,1,0.682823896408081,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0.6,0,1,NA,1,1.04009103775024,1,0.702108144760132,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0.6,0.2,1,NA,1,1.15506863594055,1,0.687839031219482,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0.6,0.4,1,NA,1,1.04957580566406,1,0.697368144989014,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0.6,0.6,1,NA,1,1.0710563659668,1,0.682629346847534,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0.6,0.8,1,NA,1,1.44670820236206,1,0.690829992294312,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0.8,0,1,NA,1,1.06259632110596,1,0.686990022659302,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0.8,0.2,1,NA,1,1.05998587608337,1,0.681591033935547,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0.8,0.4,1,NA,1,1.26693081855774,1,0.69396162033081,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0.8,0.6,1,NA,1,1.28231143951416,1,0.685370445251465,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",0.8,0.8,1,NA,1,1.31663656234741,1,0.722236156463623,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",1,0,1,NA,1,1.12254858016968,1,0.683814764022827,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",1,0.2,1,NA,1,1.06206655502319,1,0.699423551559448,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",1,0.4,1,NA,1,1.10149717330933,1,0.718222618103027,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",1,0.6,1,NA,1,1.10723447799683,1,0.772444009780884,0,0
+"Datos sin transformar","mvnorm",0.001,1000,300,3,"unequal",1,0.8,1,NA,1,1.40878105163574,1,0.698031663894653,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0,0,1,NA,0.049,1.07895994186401,0.052,0.641042470932007,0.3,5.94059405940593
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0,0.2,1,NA,0.042,1.02140855789185,0.052,0.69213342666626,1,21.2765957446808
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0,0.4,1,NA,0.044,1.05489349365234,0.052,0.686444520950317,0.8,16.6666666666667
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0,0.6,1,NA,0.049,1.27750968933105,0.052,0.717542409896851,0.3,5.94059405940593
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0,0.8,1,NA,0.047,1.06579089164734,0.052,0.700071334838867,0.5,10.1010101010101
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0.2,0,1,NA,0.966,1.07972478866577,0.964,0.662194490432739,0.2,0.207253886010363
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0.2,0.2,1,NA,0.949,1.06477332115173,0.888,0.931029558181763,6.09999999999999,6.64126292868807
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0.2,0.4,1,NA,0.912,1.06749296188354,0.777,0.699552297592163,13.5,15.9857904085258
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0.2,0.6,1,NA,0.85,1.39146304130554,0.661,0.694940328598022,18.9,25.0165453342157
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0.2,0.8,1,NA,0.794,1.0906093120575,0.573,0.719428777694702,22.1,32.3335771762985
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0.4,0,1,NA,1,1.30946063995361,1,0.682227849960327,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0.4,0.2,1,NA,1,1.40600395202637,1,0.682604789733887,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0.4,0.4,1,NA,1,1.04927396774292,1,0.700332880020142,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0.4,0.6,1,NA,1,1.09602451324463,1,0.663644313812256,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0.4,0.8,1,NA,1,1.12849140167236,0.999,1.05386471748352,0.1,0.100050025012506
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0.6,0,1,NA,1,1.10609912872314,1,0.663944482803345,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0.6,0.2,1,NA,1,1.05437994003296,1,0.668753147125244,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0.6,0.4,1,NA,1,1.07511138916016,1,0.684873104095459,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0.6,0.6,1,NA,1,1.07665157318115,1,0.682003021240234,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0.6,0.8,1,NA,1,1.138676404953,1,0.975244522094727,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0.8,0,1,NA,1,1.06677961349487,1,0.687035322189331,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0.8,0.2,1,NA,1,1.06440424919128,1,0.933313131332397,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0.8,0.4,1,NA,1,1.04991436004639,1,0.938980102539062,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0.8,0.6,1,NA,1,1.07918739318848,1,0.685012817382812,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",0.8,0.8,1,NA,1,1.13395094871521,1,0.672443151473999,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",1,0,1,NA,1,1.07586169242859,1,0.681373119354248,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",1,0.2,1,NA,1,1.03189659118652,1,0.685209035873413,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",1,0.4,1,NA,1,1.05453181266785,1,0.684256076812744,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",1,0.6,1,NA,1,1.06456804275513,1,0.689345121383667,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"equal",1,0.8,1,NA,1,1.12240695953369,1,0.684267282485962,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0,0,1,NA,0.049,1.06829071044922,0.052,0.681921243667603,0.3,5.94059405940593
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0,0.2,1,NA,0.044,1.30693221092224,0.052,0.698880195617676,0.8,16.6666666666667
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0,0.4,1,NA,0.042,1.06268906593323,0.052,0.700354814529419,1,21.2765957446808
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0,0.6,1,NA,0.048,1.08982968330383,0.052,0.712968111038208,0.4,7.99999999999999
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0,0.8,1,NA,0.051,1.04697012901306,0.052,0.700229406356812,0.1,1.94174757281554
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0.2,0,1,NA,1,1.04466247558594,1,0.681318044662476,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0.2,0.2,1,NA,1,1.04707217216492,1,0.685129642486572,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0.2,0.4,1,NA,1,1.08800721168518,1,0.693740129470825,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0.2,0.6,1,NA,1,1.05231356620789,1,0.680998086929321,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0.2,0.8,1,NA,1,1.08130574226379,1,0.683629751205444,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0.4,0,1,NA,1,1.06556034088135,1,0.682673454284668,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0.4,0.2,1,NA,1,1.19735622406006,1,0.693500995635986,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0.4,0.4,1,NA,1,1.06950235366821,1,0.68375301361084,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0.4,0.6,1,NA,1,1.06115126609802,1,0.686192989349365,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0.4,0.8,1,NA,1,1.14474511146545,1,0.68227744102478,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0.6,0,1,NA,1,1.103600025177,1,0.718145847320557,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0.6,0.2,1,NA,1,1.08046817779541,1,0.69245171546936,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0.6,0.4,1,NA,1,1.10666680335999,1,0.679997444152832,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0.6,0.6,1,NA,1,1.07185196876526,1,0.696198225021362,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0.6,0.8,1,NA,1,1.15393853187561,1,0.739747285842896,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0.8,0,1,NA,1,1.06089091300964,1,0.67858076095581,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0.8,0.2,1,NA,1,1.06361985206604,1,0.677605628967285,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0.8,0.4,1,NA,1,1.0693085193634,1,0.69882321357727,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0.8,0.6,1,NA,1,1.0814368724823,1,0.680797815322876,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",0.8,0.8,1,NA,1,1.14918637275696,1,0.701562166213989,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",1,0,1,NA,1,1.24879908561707,1,0.700286388397217,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",1,0.2,1,NA,1,1.25110650062561,1,0.68112587928772,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",1,0.4,1,NA,1,1.05049800872803,1,0.662498712539673,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",1,0.6,1,NA,1,1.05762100219727,1,0.657797574996948,0,0
+"Escalado de datos por desviación típica","mvnorm",0.05,1000,300,3,"unequal",1,0.8,1,NA,1,1.22515964508057,1,0.686859607696533,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0,0,1,NA,0.005,1.33731150627136,0.003,0.682487487792969,0.2,50
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0,0.2,1,NA,0.01,1.07451820373535,0.003,0.682698249816895,0.7,107.692307692308
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0,0.4,1,NA,0.011,1.04354071617126,0.003,0.71773886680603,0.8,114.285714285714
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0,0.6,1,NA,0.011,1.16216373443604,0.003,0.698712587356567,0.8,114.285714285714
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0,0.8,1,NA,0.01,1.05946373939514,0.003,0.714473247528076,0.7,107.692307692308
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0.2,0,1,NA,0.908,1.12020087242126,0.895,0.679394245147705,1.3,1.4420410427066
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0.2,0.2,1,NA,0.854,1.04014348983765,0.746,0.677056074142456,10.8,13.5
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0.2,0.4,1,NA,0.775,1.04781603813171,0.54,0.680058717727661,23.5,35.7414448669202
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0.2,0.6,1,NA,0.649,1.08338928222656,0.419,0.678378343582153,23,43.0711610486891
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0.2,0.8,1,NA,0.552,1.073575258255,0.327,0.69653844833374,22.5,51.1945392491468
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0.4,0,1,NA,1,1.08567476272583,1,0.685944080352783,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0.4,0.2,1,NA,1,1.15134429931641,1,0.701222896575928,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0.4,0.4,1,NA,1,1.07511353492737,1,0.676109552383423,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0.4,0.6,1,NA,1,1.36277079582214,0.999,0.690378665924072,0.1,0.100050025012506
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0.4,0.8,1,NA,0.999,1.11183762550354,0.995,0.676593780517578,0.4,0.401203610832498
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0.6,0,1,NA,1,1.05539655685425,1,0.675338506698608,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0.6,0.2,1,NA,1,1.14500093460083,1,0.680418729782104,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0.6,0.4,1,NA,1,1.06343173980713,1,0.732638120651245,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0.6,0.6,1,NA,1,1.12755870819092,1,0.730136394500732,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0.6,0.8,1,NA,1,1.14631152153015,1,0.692530155181885,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0.8,0,1,NA,1,1.13539028167725,1,0.712090253829956,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0.8,0.2,1,NA,1,1.05708312988281,1,0.694554805755615,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0.8,0.4,1,NA,1,1.07756114006042,1,0.720479726791382,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0.8,0.6,1,NA,1,1.08212089538574,1,0.710680246353149,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",0.8,0.8,1,NA,1,1.14842963218689,1,0.889485359191895,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",1,0,1,NA,1,1.23741722106934,1,0.711973190307617,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",1,0.2,1,NA,1,1.06991934776306,1,0.673680305480957,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",1,0.4,1,NA,1,1.07116174697876,1,0.737123012542725,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",1,0.6,1,NA,1,1.04979705810547,1,0.712848663330078,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"equal",1,0.8,1,NA,1,1.12651348114014,1,0.73637580871582,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0,0,1,NA,0.005,1.0376706123352,0.003,0.691684484481812,0.2,50
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0,0.2,1,NA,0.005,1.08991885185242,0.003,0.656717538833618,0.2,50
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0,0.4,1,NA,0.011,1.22111129760742,0.003,0.750310182571411,0.8,114.285714285714
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0,0.6,1,NA,0.01,1.23077583312988,0.003,0.707348823547363,0.7,107.692307692308
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0,0.8,1,NA,0.011,1.06172966957092,0.003,0.695236444473267,0.8,114.285714285714
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0.2,0,1,NA,1,1.0450074672699,1,0.678581237792969,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0.2,0.2,1,NA,1,1.12111258506775,1,0.675447940826416,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0.2,0.4,1,NA,1,1.05974745750427,1,0.680309534072876,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0.2,0.6,1,NA,1,1.06674361228943,0.999,0.676632881164551,0.1,0.100050025012506
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0.2,0.8,1,NA,1,1.08766269683838,1,0.677073240280151,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0.4,0,1,NA,1,1.11954736709595,1,0.680973529815674,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0.4,0.2,1,NA,1,1.06189250946045,1,0.695540904998779,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0.4,0.4,1,NA,1,1.08753943443298,1,1.02219319343567,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0.4,0.6,1,NA,1,1.07116055488586,1,0.759715557098389,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0.4,0.8,1,NA,1,1.13687634468079,1,0.695608377456665,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0.6,0,1,NA,1,1.19919753074646,1,1.02057337760925,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0.6,0.2,1,NA,1,1.07450842857361,1,0.67497730255127,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0.6,0.4,1,NA,1,1.08181691169739,1,0.703031063079834,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0.6,0.6,1,NA,1,1.05527901649475,1,0.752202987670898,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0.6,0.8,1,NA,1,1.12547755241394,1,0.674379110336304,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0.8,0,1,NA,1,1.2276349067688,1,0.67617654800415,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0.8,0.2,1,NA,1,1.05759453773499,1,0.691200971603394,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0.8,0.4,1,NA,1,1.04033017158508,1,0.854292631149292,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0.8,0.6,1,NA,1,1.03575229644775,1,0.659948348999023,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",0.8,0.8,1,NA,1,1.12880206108093,1,0.676248550415039,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",1,0,1,NA,1,1.05616450309753,1,0.766685247421265,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",1,0.2,1,NA,1,1.03865504264832,1,0.673668146133423,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",1,0.4,1,NA,1,1.04790806770325,1,0.677361726760864,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",1,0.6,1,NA,1,1.03797554969788,1,0.675187349319458,0,0
+"Escalado de datos por desviación típica","mvnorm",0.01,1000,300,3,"unequal",1,0.8,1,NA,1,1.27947545051575,1,0.70591402053833,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0,0,1,NA,0,1.07475233078003,0,0.664319276809692,0,NA
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0,0.2,1,NA,0,1.03499317169189,0,0.674980163574219,0,NA
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0,0.4,1,NA,0,1.07060980796814,0,0.692756175994873,0,NA
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0,0.6,1,NA,0,1.07129383087158,0,0.683685302734375,0,NA
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0,0.8,1,NA,0.001,1.06325459480286,0,0.675990581512451,0.1,200
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0.2,0,1,NA,0.739,1.03228569030762,0.698,0.745044231414795,4.1,5.70633263743911
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0.2,0.2,1,NA,0.681,1.05517292022705,0.464,0.657692670822144,21.7,37.9039301310044
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0.2,0.4,1,NA,0.492,1.07733225822449,0.26,0.681009769439697,23.2,61.7021276595745
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0.2,0.6,1,NA,0.381,1.03912234306335,0.172,0.674450397491455,20.9,75.5877034358047
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0.2,0.8,1,NA,0.28,1.02354788780212,0.123,0.674443483352661,15.7,77.9156327543424
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0.4,0,1,NA,1,1.05410933494568,1,0.68392825126648,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0.4,0.2,1,NA,1,1.04540348052979,1,0.678920745849609,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0.4,0.4,1,NA,1,1.062575340271,0.998,0.676185607910156,0.2,0.2002002002002
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0.4,0.6,1,NA,0.998,1.04434943199158,0.988,0.676663398742676,1,1.00704934541793
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0.4,0.8,1,NA,0.994,1.1772563457489,0.955,0.694640874862671,3.9,4.00205233453053
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0.6,0,1,NA,1,1.14917087554932,1,0.691968202590942,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0.6,0.2,1,NA,1,1.05684041976929,1,0.69322657585144,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0.6,0.4,1,NA,1,1.05894351005554,1,0.679089307785034,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0.6,0.6,1,NA,1,1.07991433143616,1,0.687210083007812,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0.6,0.8,1,NA,1,1.1058623790741,1,0.692985773086548,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0.8,0,1,NA,1,1.05689239501953,1,0.71078372001648,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0.8,0.2,1,NA,1,1.1604380607605,1,0.723330497741699,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0.8,0.4,1,NA,1,1.03987193107605,1,0.870561838150024,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0.8,0.6,1,NA,1,1.04819393157959,1,0.711867570877075,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",0.8,0.8,1,NA,1,1.14903616905212,1,0.707584857940674,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",1,0,1,NA,1,1.05673336982727,1,0.729100704193115,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",1,0.2,1,NA,1,1.05951046943665,1,0.891043186187744,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",1,0.4,1,NA,1,1.09760308265686,1,0.720165014266968,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",1,0.6,1,NA,1,1.07045364379883,1,0.676223039627075,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"equal",1,0.8,1,NA,1,1.18736362457275,1,0.695414066314697,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0,0,1,NA,0,1.02020788192749,0,0.674751043319702,0,NA
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0,0.2,1,NA,0,1.04530215263367,0,0.678568601608276,0,NA
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0,0.4,1,NA,0,1.05536341667175,0,0.692741632461548,0,NA
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0,0.6,1,NA,0.001,1.02280402183533,0,0.674883842468262,0.1,200
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0,0.8,1,NA,0.001,1.14311718940735,0,0.700158357620239,0.1,200
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0.2,0,1,NA,1,1.01959705352783,1,0.674877882003784,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0.2,0.2,1,NA,1,1.03966212272644,1,0.854289293289185,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0.2,0.4,1,NA,1,1.07739114761353,0.999,0.667678833007812,0.1,0.100050025012506
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0.2,0.6,1,NA,1,1.02650260925293,0.995,0.691304206848145,0.5,0.501253132832081
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0.2,0.8,1,NA,0.994,1.07198548316956,0.998,0.694870233535767,0.4,0.401606425702812
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0.4,0,1,NA,1,1.06339526176453,1,0.826201677322388,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0.4,0.2,1,NA,1,1.04153895378113,1,0.692713737487793,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0.4,0.4,1,NA,1,1.08151507377625,1,0.69733738899231,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0.4,0.6,1,NA,1,1.09208655357361,1,0.681592464447021,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0.4,0.8,1,NA,1,1.46667432785034,1,0.693988561630249,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0.6,0,1,NA,1,1.05501484870911,1,0.695567607879639,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0.6,0.2,1,NA,1,1.06341338157654,1,0.698618173599243,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0.6,0.4,1,NA,1,1.4069836139679,1,0.675215005874634,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0.6,0.6,1,NA,1,1.15037679672241,1,0.67685604095459,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0.6,0.8,1,NA,1,1.1625771522522,1,0.6912522315979,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0.8,0,1,NA,1,1.03782033920288,1,0.677282333374023,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0.8,0.2,1,NA,1,1.03589487075806,1,0.674678802490234,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0.8,0.4,1,NA,1,1.06568813323975,1,0.692167043685913,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0.8,0.6,1,NA,1,1.03849816322327,1,0.677454233169556,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",0.8,0.8,1,NA,1,1.33739423751831,1,0.663509130477905,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",1,0,1,NA,1,1.045574426651,1,0.676601409912109,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",1,0.2,1,NA,1,1.05787348747253,1,0.849707126617432,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",1,0.4,1,NA,1,1.25420665740967,1,0.687689065933228,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",1,0.6,1,NA,1,1.05846524238586,1,0.675553560256958,0,0
+"Escalado de datos por desviación típica","mvnorm",0.001,1000,300,3,"unequal",1,0.8,1,NA,1,1.19188928604126,1,0.68608808517456,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0,0,1,NA,0.049,1.03736591339111,0.052,0.73825192451477,0.3,5.94059405940593
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0,0.2,1,NA,0.04,1.07540059089661,0.052,0.675191164016724,1.2,26.0869565217391
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0,0.4,1,NA,0.049,1.03577852249146,0.052,0.724280118942261,0.3,5.94059405940593
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0,0.6,1,NA,0.05,1.06350302696228,0.052,0.703892946243286,0.199999999999999,3.92156862745097
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0,0.8,1,NA,0.048,1.04503226280212,0.052,0.665045022964478,0.4,7.99999999999999
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0.2,0,1,NA,0.963,1.04216170310974,0.964,0.680617570877075,0.1,0.103788271925273
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0.2,0.2,1,NA,0.945,1.06462907791138,0.888,0.665989637374878,5.69999999999999,6.21931260229132
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0.2,0.4,1,NA,0.903,1.06041526794434,0.777,0.684818029403687,12.6,15
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0.2,0.6,1,NA,0.849,1.33079075813293,0.661,0.736883401870728,18.8,24.9006622516556
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0.2,0.8,1,NA,0.794,1.07080864906311,0.573,0.684613227844238,22.1,32.3335771762985
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0.4,0,1,NA,1,1.06408047676086,1,0.682317018508911,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0.4,0.2,1,NA,1,1.02740383148193,1,0.918480634689331,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0.4,0.4,1,NA,1,1.02794170379639,1,0.682756900787354,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0.4,0.6,1,NA,1,1.07119393348694,1,0.683526754379272,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0.4,0.8,1,NA,1,1.10105562210083,0.999,0.696873426437378,0.1,0.100050025012506
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0.6,0,1,NA,1,1.06379294395447,1,0.684525012969971,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0.6,0.2,1,NA,1,1.07014942169189,1,0.686734199523926,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0.6,0.4,1,NA,1,1.03680515289307,1,0.690710544586182,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0.6,0.6,1,NA,1,1.05664300918579,1,0.665366649627686,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0.6,0.8,1,NA,1,1.14113259315491,1,0.717028617858887,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0.8,0,1,NA,1,1.03531885147095,1,0.748153448104858,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0.8,0.2,1,NA,1,1.02819633483887,1,0.683426856994629,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0.8,0.4,1,NA,1,1.04932165145874,1,0.68503999710083,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0.8,0.6,1,NA,1,1.04041767120361,1,0.683173179626465,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",0.8,0.8,1,NA,1,1.13690328598022,1,0.723643779754639,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",1,0,1,NA,1,1.06200838088989,1,0.681680917739868,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",1,0.2,1,NA,1,1.06694626808167,1,0.685690879821777,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",1,0.4,1,NA,1,1.05135154724121,1,0.703248023986816,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",1,0.6,1,NA,1,1.07751321792603,1,0.669552326202393,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"equal",1,0.8,1,NA,1,1.1233606338501,1,0.705177307128906,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0,0,1,NA,0.049,1.06330823898315,0.052,0.700385332107544,0.3,5.94059405940593
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0,0.2,1,NA,0.046,1.04283618927002,0.052,0.702609777450562,0.6,12.2448979591837
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0,0.4,1,NA,0.047,1.28604960441589,0.052,0.684291362762451,0.5,10.1010101010101
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0,0.6,1,NA,0.053,1.06345510482788,0.052,0.691593408584595,0.1,1.90476190476191
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0,0.8,1,NA,0.05,1.41216206550598,0.052,0.68221640586853,0.199999999999999,3.92156862745097
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0.2,0,1,NA,1,1.02583885192871,1,0.687942504882812,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0.2,0.2,1,NA,1,1.03202366828918,1,0.68330192565918,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0.2,0.4,1,NA,1,1.07683253288269,1,0.696545839309692,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0.2,0.6,1,NA,1,1.05001616477966,1,0.682523727416992,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0.2,0.8,1,NA,1,1.08174109458923,1,0.684034824371338,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0.4,0,1,NA,1,1.28393888473511,1,0.708251476287842,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0.4,0.2,1,NA,1,1.07197141647339,1,0.689074993133545,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0.4,0.4,1,NA,1,1.05042505264282,1,0.684927463531494,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0.4,0.6,1,NA,1,1.06338405609131,1,0.685405731201172,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0.4,0.8,1,NA,1,1.14377784729004,1,0.701364994049072,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0.6,0,1,NA,1,1.37594771385193,1,0.738012790679932,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0.6,0.2,1,NA,1,1.07661962509155,1,0.726272106170654,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0.6,0.4,1,NA,1,1.11020565032959,1,0.701088666915894,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0.6,0.6,1,NA,1,1.06922888755798,1,0.86166787147522,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0.6,0.8,1,NA,1,1.30531048774719,1,0.679681539535522,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0.8,0,1,NA,1,1.0414719581604,1,0.680237770080566,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0.8,0.2,1,NA,1,1.02424907684326,1,0.754929780960083,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0.8,0.4,1,NA,1,1.04246377944946,1,0.756321907043457,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0.8,0.6,1,NA,1,1.05460238456726,1,0.679892539978027,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",0.8,0.8,1,NA,1,1.12606716156006,1,0.659913301467896,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",1,0,1,NA,1,1.077716588974,1,0.672670125961304,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",1,0.2,1,NA,1,1.02445244789124,1,0.680286645889282,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",1,0.4,1,NA,1,1.32410573959351,1,0.68216872215271,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",1,0.6,1,NA,1,1.14959073066711,1,0.698299407958984,0,0
+"Normalización Min- Max","mvnorm",0.05,1000,300,3,"unequal",1,0.8,1,NA,1,1.15103936195374,1,0.689493417739868,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0,0,1,NA,0.004,1.04838943481445,0.003,0.699926614761353,0.1,28.5714285714286
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0,0.2,1,NA,0.007,1.11128616333008,0.003,0.658522605895996,0.4,80
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0,0.4,1,NA,0.012,1.11680316925049,0.003,0.662768363952637,0.9,120
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0,0.6,1,NA,0.012,1.09529566764832,0.003,0.675699710845947,0.9,120
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0,0.8,1,NA,0.011,1.07548952102661,0.003,1.07145690917969,0.8,114.285714285714
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0.2,0,1,NA,0.902,1.08324193954468,0.895,0.679621696472168,0.700000000000001,0.779076238174736
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0.2,0.2,1,NA,0.857,1.05667686462402,0.746,0.70146107673645,11.1,13.8490330630069
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0.2,0.4,1,NA,0.764,1.08202028274536,0.54,0.901226043701172,22.4,34.3558282208589
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0.2,0.6,1,NA,0.646,1.06115818023682,0.419,0.687546730041504,22.7,42.6291079812207
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0.2,0.8,1,NA,0.544,1.08610391616821,0.327,0.680200815200806,21.7,49.8277841561424
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0.4,0,1,NA,1,1.11441016197205,1,0.711669445037842,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0.4,0.2,1,NA,1,1.06852316856384,1,0.698185443878174,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0.4,0.4,1,NA,1,1.07524800300598,1,0.693132638931274,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0.4,0.6,1,NA,1,1.06004548072815,0.999,0.847380638122559,0.1,0.100050025012506
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0.4,0.8,1,NA,0.999,1.09575009346008,0.995,0.660634517669678,0.4,0.401203610832498
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0.6,0,1,NA,1,1.07982993125916,1,0.677762985229492,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0.6,0.2,1,NA,1,1.55119371414185,1,0.680450677871704,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0.6,0.4,1,NA,1,1.07550811767578,1,0.71088171005249,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0.6,0.6,1,NA,1,1.06223750114441,1,0.676462888717651,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0.6,0.8,1,NA,1,1.45462989807129,1,0.658210039138794,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0.8,0,1,NA,1,1.03565883636475,1,0.694976806640625,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0.8,0.2,1,NA,1,1.05294513702393,1,0.695398092269897,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0.8,0.4,1,NA,1,1.07054615020752,1,0.685429811477661,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0.8,0.6,1,NA,1,1.17846441268921,1,0.675479173660278,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",0.8,0.8,1,NA,1,1.13305449485779,1,0.678431749343872,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",1,0,1,NA,1,1.03903222084045,1,0.676880121231079,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",1,0.2,1,NA,1,1.37063050270081,1,0.656629800796509,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",1,0.4,1,NA,1,1.07411742210388,1,0.702042102813721,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",1,0.6,1,NA,1,1.15772080421448,1,0.696608781814575,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"equal",1,0.8,1,NA,1,1.14233231544495,1,1.01901316642761,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0,0,1,NA,0.004,1.07278180122375,0.003,0.658019781112671,0.1,28.5714285714286
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0,0.2,1,NA,0.005,1.03677129745483,0.003,0.675321817398071,0.2,50
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0,0.4,1,NA,0.012,1.0290322303772,0.003,0.709317445755005,0.9,120
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0,0.6,1,NA,0.01,1.07367062568665,0.003,0.684457063674927,0.7,107.692307692308
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0,0.8,1,NA,0.01,1.09985661506653,0.003,0.786808967590332,0.7,107.692307692308
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0.2,0,1,NA,1,1.06192898750305,1,0.661643743515015,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0.2,0.2,1,NA,1,1.04105472564697,1,0.696330785751343,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0.2,0.4,1,NA,1,1.06362557411194,1,0.694356441497803,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0.2,0.6,1,NA,1,1.24303030967712,0.999,0.693522214889526,0.1,0.100050025012506
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0.2,0.8,1,NA,1,1.08505201339722,1,0.675161361694336,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0.4,0,1,NA,1,1.07868456840515,1,0.734357595443726,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0.4,0.2,1,NA,1,1.09187769889832,1,0.660318851470947,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0.4,0.4,1,NA,1,1.22156095504761,1,0.684973239898682,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0.4,0.6,1,NA,1,1.07172250747681,1,0.679571866989136,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0.4,0.8,1,NA,1,1.15238475799561,1,0.678417921066284,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0.6,0,1,NA,1,1.03207397460938,1,0.673156261444092,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0.6,0.2,1,NA,1,1.03999209403992,1,0.842430591583252,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0.6,0.4,1,NA,1,1.05707287788391,1,0.688540458679199,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0.6,0.6,1,NA,1,1.03178787231445,1,0.675751447677612,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0.6,0.8,1,NA,1,1.15615224838257,1,0.85385012626648,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0.8,0,1,NA,1,1.01947712898254,1,0.677107334136963,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0.8,0.2,1,NA,1,1.06928968429565,1,0.687261581420898,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0.8,0.4,1,NA,1,1.01632928848267,1,0.673725366592407,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0.8,0.6,1,NA,1,1.06849312782288,1,0.69404149055481,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",0.8,0.8,1,NA,1,1.14163160324097,1,0.676667213439941,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",1,0,1,NA,1,1.07263374328613,1,0.696369409561157,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",1,0.2,1,NA,1,1.05128526687622,1,0.684247732162476,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",1,0.4,1,NA,1,1.05877208709717,1,0.677753686904907,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",1,0.6,1,NA,1,1.1490318775177,1,0.715194463729858,0,0
+"Normalización Min- Max","mvnorm",0.01,1000,300,3,"unequal",1,0.8,1,NA,1,1.16189622879028,1,0.6889967918396,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0,0,1,NA,0,1.03251600265503,0,0.674878835678101,0,NA
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0,0.2,1,NA,0.001,1.05129241943359,0,0.710104703903198,0.1,200
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0,0.4,1,NA,0,1.0351619720459,0,0.65691328048706,0,NA
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0,0.6,1,NA,0,1.08766460418701,0,0.696467161178589,0,NA
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0,0.8,1,NA,0.001,1.03866577148438,0,0.67694878578186,0.1,200
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0.2,0,1,NA,0.72,1.06719994544983,0.698,0.69409704208374,2.2,3.10296191819464
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0.2,0.2,1,NA,0.671,1.05341625213623,0.464,0.676684379577637,20.7,36.4757709251101
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0.2,0.4,1,NA,0.488,1.06305932998657,0.26,0.689591646194458,22.8,60.9625668449198
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0.2,0.6,1,NA,0.383,1.03724956512451,0.172,0.673523426055908,21.1,76.036036036036
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0.2,0.8,1,NA,0.279,1.03843975067139,0.123,0.673743963241577,15.6,77.6119402985075
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0.4,0,1,NA,1,1.12860822677612,1,0.710666179656982,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0.4,0.2,1,NA,1,1.05404138565063,1,0.67574143409729,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0.4,0.4,1,NA,1,1.03550434112549,0.998,0.675765991210938,0.2,0.2002002002002
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0.4,0.6,1,NA,0.998,1.04591989517212,0.988,0.696789264678955,1,1.00704934541793
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0.4,0.8,1,NA,0.996,1.11052680015564,0.955,0.720262050628662,4.1,4.20297283444388
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0.6,0,1,NA,1,1.08708620071411,1,1.07691788673401,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0.6,0.2,1,NA,1,1.05261874198914,1,0.678991794586182,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0.6,0.4,1,NA,1,1.31671452522278,1,0.6973717212677,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0.6,0.6,1,NA,1,1.16708326339722,1,1.21434998512268,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0.6,0.8,1,NA,1,1.31435132026672,1,0.734023571014404,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0.8,0,1,NA,1,1.09120273590088,1,0.693017959594727,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0.8,0.2,1,NA,1,1.41934204101562,1,0.663626432418823,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0.8,0.4,1,NA,1,1.03846955299377,1,0.676187515258789,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0.8,0.6,1,NA,1,1.0906708240509,1,0.658736705780029,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",0.8,0.8,1,NA,1,1.17030811309814,1,0.688868761062622,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",1,0,1,NA,1,1.05321907997131,1,0.675814151763916,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",1,0.2,1,NA,1,1.05633425712585,1,0.659492254257202,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",1,0.4,1,NA,1,1.25012111663818,1,0.670066833496094,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",1,0.6,1,NA,1,1.05571556091309,1,0.678653955459595,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"equal",1,0.8,1,NA,1,1.13011765480042,1,0.698558330535889,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0,0,1,NA,0,1.05371332168579,0,0.675865888595581,0,NA
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0,0.2,1,NA,0,1.07621622085571,0,0.681029319763184,0,NA
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0,0.4,1,NA,0,1.20633149147034,0,0.675393342971802,0,NA
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0,0.6,1,NA,0.001,1.08772349357605,0,0.693144798278809,0.1,200
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0,0.8,1,NA,0.001,1.04672932624817,0,0.666633367538452,0.1,200
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0.2,0,1,NA,1,1.05204892158508,1,0.676985502243042,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0.2,0.2,1,NA,1,1.05711102485657,1,0.676414012908936,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0.2,0.4,1,NA,0.999,1.08015418052673,0.999,0.685510396957397,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0.2,0.6,1,NA,1,1.14352679252625,0.995,0.675140857696533,0.5,0.501253132832081
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0.2,0.8,1,NA,0.992,1.09016919136047,0.998,0.677759647369385,0.6,0.603015075376885
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0.4,0,1,NA,1,1.08141851425171,1,0.697484731674194,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0.4,0.2,1,NA,1,1.05518794059753,1,0.893958568572998,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0.4,0.4,1,NA,1,1.0790958404541,1,0.695337057113647,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0.4,0.6,1,NA,1,1.33481907844543,1,0.825943946838379,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0.4,0.8,1,NA,1,1.11411452293396,1,0.695843935012817,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0.6,0,1,NA,1,1.05233359336853,1,0.690922021865845,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0.6,0.2,1,NA,1,1.06415796279907,1,0.695218324661255,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0.6,0.4,1,NA,1,1.03799986839294,1,0.674888610839844,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0.6,0.6,1,NA,1,1.05119800567627,1,0.675803899765015,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0.6,0.8,1,NA,1,1.11883926391602,1,0.688856601715088,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0.8,0,1,NA,1,1.0201690196991,1,0.67559814453125,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0.8,0.2,1,NA,1,1.16226768493652,1,0.674946308135986,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0.8,0.4,1,NA,1,1.13752245903015,1,0.692891597747803,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0.8,0.6,1,NA,1,1.06722593307495,1,0.677037477493286,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",0.8,0.8,1,NA,1,1.13384318351746,1,0.682507991790771,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",1,0,1,NA,1,1.03867673873901,1,0.67724609375,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",1,0.2,1,NA,1,1.04832673072815,1,0.67572021484375,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",1,0.4,1,NA,1,1.07265973091125,1,0.7061607837677,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",1,0.6,1,NA,1,1.07431793212891,1,0.677197217941284,0,0
+"Normalización Min- Max","mvnorm",0.001,1000,300,3,"unequal",1,0.8,1,NA,1,1.14141917228699,1,0.703503608703613,0,0
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0,0,1,NA,0.048,1.12982559204102,0.046,0.740639209747314,0.2,4.25531914893617
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0,0.2,1,NA,0.044,1.10870504379272,0.05,0.79231333732605,0.6,12.7659574468085
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0,0.4,1,NA,0.046,1.10561943054199,0.052,0.766526222229004,0.6,12.2448979591837
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0,0.6,1,NA,0.043,1.11602449417114,0.042,0.762346506118774,0.0999999999999994,2.35294117647057
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0,0.8,1,NA,0.044,1.1253776550293,0.042,0.758395671844482,0.199999999999999,4.65116279069766
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0.2,0,1,NA,0.07,1.15175890922546,0.063,0.797525882720947,0.700000000000001,10.5263157894737
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0.2,0.2,1,NA,0.064,1.13743543624878,0.063,0.764618873596191,0.1,1.5748031496063
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0.2,0.4,1,NA,0.067,1.11840867996216,0.06,0.763830661773682,0.700000000000001,11.0236220472441
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0.2,0.6,1,NA,0.076,1.10808563232422,0.067,0.788949728012085,0.9,12.5874125874126
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0.2,0.8,1,NA,0.068,1.12307691574097,0.066,0.763468503952026,0.2,2.98507462686567
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0.4,0,1,NA,0.119,1.11863017082214,0.089,0.765516042709351,3,28.8461538461539
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0.4,0.2,1,NA,0.109,1.15887713432312,0.099,0.765007495880127,1,9.61538461538461
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0.4,0.4,1,NA,0.114,1.11999702453613,0.092,0.764137983322144,2.2,21.3592233009709
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0.4,0.6,1,NA,0.118,1.10192775726318,0.099,0.781835079193115,1.9,17.5115207373272
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0.4,0.8,1,NA,0.12,1.38898372650146,0.099,0.776407957077026,2.1,19.1780821917808
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0.6,0,1,NA,0.208,1.1205906867981,0.156,0.76400899887085,5.2,28.5714285714286
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0.6,0.2,1,NA,0.207,1.12688684463501,0.16,1.04048800468445,4.7,25.6130790190736
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0.6,0.4,1,NA,0.206,1.1256308555603,0.149,0.807051181793213,5.7,32.112676056338
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0.6,0.6,1,NA,0.21,1.12198781967163,0.142,1.08899164199829,6.8,38.6363636363636
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0.6,0.8,1,NA,0.219,1.14482641220093,0.154,0.881239652633667,6.5,34.8525469168901
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0.8,0,1,NA,0.345,1.12539601325989,0.248,0.777732610702515,9.7,32.7150084317032
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0.8,0.2,1,NA,0.347,1.17975258827209,0.25,0.801572561264038,9.7,32.4958123953099
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0.8,0.4,1,NA,0.341,1.15773725509644,0.25,0.801163673400879,9.1,30.7952622673435
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0.8,0.6,1,NA,0.338,1.13668942451477,0.243,1.04408264160156,9.5,32.7022375215146
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",0.8,0.8,1,NA,0.347,1.16787099838257,0.258,1.03997492790222,8.9,29.4214876033058
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",1,0,1,NA,0.505,1.13748049736023,0.372,0.761537075042725,13.3,30.3306727480046
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",1,0.2,1,NA,0.506,1.37907433509827,0.37,0.783837556838989,13.6,31.0502283105023
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",1,0.4,1,NA,0.523,1.12357974052429,0.383,0.76591157913208,14,30.9050772626932
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",1,0.6,1,NA,0.53,1.38400721549988,0.379,0.750272989273071,15.1,33.2233223322332
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"equal",1,0.8,1,NA,0.526,1.10560703277588,0.374,0.811508893966675,15.2,33.7777777777778
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0,0,1,NA,0.048,1.36969900131226,0.05,0.764173746109009,0.2,4.08163265306123
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0,0.2,1,NA,0.047,1.11532545089722,0.052,0.785699367523193,0.5,10.1010101010101
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0,0.4,1,NA,0.037,1.10182452201843,0.038,0.743276119232178,0.1,2.66666666666667
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0,0.6,1,NA,0.042,1.36626505851746,0.043,0.802505731582642,0.0999999999999994,2.35294117647057
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0,0.8,1,NA,0.042,1.12026405334473,0.043,0.76609468460083,0.0999999999999994,2.35294117647057
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0.2,0,1,NA,0.058,1.11803674697876,0.056,0.800918817520142,0.2,3.50877192982456
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0.2,0.2,1,NA,0.06,1.12626004219055,0.045,0.801780462265015,1.5,28.5714285714286
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0.2,0.4,1,NA,0.067,1.20297384262085,0.05,0.786300182342529,1.7,29.0598290598291
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0.2,0.6,1,NA,0.056,1.13508296012878,0.052,1.02166891098022,0.4,7.40740740740741
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0.2,0.8,1,NA,0.057,1.10612177848816,0.055,0.785480737686157,0.2,3.57142857142857
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0.4,0,1,NA,0.105,1.13786435127258,0.082,0.765397310256958,2.3,24.5989304812834
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0.4,0.2,1,NA,0.112,1.14176797866821,0.084,0.799162149429321,2.8,28.5714285714286
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0.4,0.4,1,NA,0.103,1.1665735244751,0.086,0.767305850982666,1.7,17.989417989418
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0.4,0.6,1,NA,0.099,1.08700585365295,0.079,0.751470565795898,2,22.4719101123596
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0.4,0.8,1,NA,0.102,1.10330605506897,0.078,0.765765428543091,2.4,26.6666666666667
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0.6,0,1,NA,0.187,1.14019441604614,0.137,0.785013198852539,5,30.8641975308642
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0.6,0.2,1,NA,0.19,1.11310052871704,0.15,0.763927936553955,4,23.5294117647059
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0.6,0.4,1,NA,0.19,1.19036650657654,0.151,0.750670194625854,3.9,22.8739002932551
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0.6,0.6,1,NA,0.201,1.0896692276001,0.149,0.746742248535156,5.2,29.7142857142857
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0.6,0.8,1,NA,0.187,1.16489601135254,0.146,0.76777458190918,4.1,24.6246246246246
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0.8,0,1,NA,0.313,1.38097167015076,0.244,0.751851558685303,6.9,24.7755834829443
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0.8,0.2,1,NA,0.326,1.16519236564636,0.25,1.20580792427063,7.6,26.3888888888889
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0.8,0.4,1,NA,0.327,1.10792541503906,0.237,0.775614738464355,9,31.9148936170213
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0.8,0.6,1,NA,0.312,1.11037635803223,0.244,0.751687526702881,6.8,24.4604316546763
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",0.8,0.8,1,NA,0.309,1.12508034706116,0.245,0.746383428573608,6.4,23.1046931407942
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",1,0,1,NA,0.483,1.10197806358337,0.367,0.791435718536377,11.6,27.2941176470588
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",1,0.2,1,NA,0.481,1.21632051467896,0.392,0.788471460342407,8.9,20.389461626575
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",1,0.4,1,NA,0.484,1.1503803730011,0.36,0.785151958465576,12.4,29.3838862559242
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",1,0.6,1,NA,0.481,1.14516949653625,0.371,0.933249711990356,11,25.8215962441314
+"Transformación Centered Log Ratio (clr)","mvnorm",0.05,1000,300,3,"unequal",1,0.8,1,NA,0.476,1.33290219306946,0.37,0.73048996925354,10.6,25.0591016548463
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0,0,1,NA,0.009,1.10734057426453,0.008,0.769571304321289,0.0999999999999999,11.7647058823529
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0,0.2,1,NA,0.008,1.0817883014679,0.008,0.747130155563354,0,0
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0,0.4,1,NA,0.008,1.10412549972534,0.01,0.747450351715088,0.2,22.2222222222222
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0,0.6,1,NA,0.007,1.11818385124207,0.007,0.801879644393921,0,0
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0,0.8,1,NA,0.008,1.12044239044189,0.005,0.744651556015015,0.3,46.1538461538462
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0.2,0,1,NA,0.007,1.27447509765625,0.009,0.750781059265137,0.2,25
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0.2,0.2,1,NA,0.017,1.06745648384094,0.01,0.939588308334351,0.7,51.8518518518518
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0.2,0.4,1,NA,0.013,1.11377310752869,0.01,0.73260760307312,0.3,26.0869565217391
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0.2,0.6,1,NA,0.015,1.35679078102112,0.014,0.749817609786987,0.0999999999999999,6.89655172413793
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0.2,0.8,1,NA,0.016,1.09090971946716,0.013,0.836662292480469,0.3,20.6896551724138
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0.4,0,1,NA,0.032,1.10704040527344,0.02,0.761730194091797,1.2,46.1538461538462
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0.4,0.2,1,NA,0.027,1.08965396881104,0.02,0.751160383224487,0.7,29.7872340425532
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0.4,0.4,1,NA,0.041,1.15905594825745,0.02,0.763042211532593,2.1,68.8524590163935
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0.4,0.6,1,NA,0.037,1.091628074646,0.023,0.76017427444458,1.4,46.6666666666667
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0.4,0.8,1,NA,0.032,1.20510172843933,0.022,0.762080907821655,1,37.037037037037
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0.6,0,1,NA,0.081,1.27118921279907,0.043,0.762461423873901,3.8,61.2903225806452
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0.6,0.2,1,NA,0.082,1.09364128112793,0.049,0.75284481048584,3.3,50.381679389313
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0.6,0.4,1,NA,0.075,1.06597542762756,0.045,0.743977546691895,3,50
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0.6,0.6,1,NA,0.077,1.08052897453308,0.05,0.74195408821106,2.7,42.5196850393701
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0.6,0.8,1,NA,0.073,1.09969925880432,0.046,0.741906642913818,2.7,45.3781512605042
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0.8,0,1,NA,0.161,1.1370005607605,0.084,0.762130260467529,7.7,62.8571428571429
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0.8,0.2,1,NA,0.159,1.08230113983154,0.094,0.762111902236938,6.5,51.3833992094862
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0.8,0.4,1,NA,0.161,1.09858298301697,0.088,0.77246880531311,7.3,58.6345381526104
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0.8,0.6,1,NA,0.157,1.059485912323,0.093,0.926954507827759,6.4,51.2
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",0.8,0.8,1,NA,0.169,1.10260701179504,0.103,0.745481967926025,6.6,48.5294117647059
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",1,0,1,NA,0.295,1.15885972976685,0.18,0.762691974639893,11.5,48.4210526315789
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",1,0.2,1,NA,0.295,1.09680867195129,0.181,0.775856971740723,11.4,47.8991596638655
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",1,0.4,1,NA,0.292,1.10453057289124,0.165,0.839439868927002,12.7,55.5798687089715
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",1,0.6,1,NA,0.287,1.10198616981506,0.177,0.745057344436646,11,47.4137931034483
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"equal",1,0.8,1,NA,0.293,1.25190329551697,0.179,0.726359367370605,11.4,48.3050847457627
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0,0,1,NA,0.01,1.10051012039185,0.007,0.822145700454712,0.3,35.2941176470588
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0,0.2,1,NA,0.013,1.08072257041931,0.012,0.742506980895996,0.0999999999999999,7.99999999999999
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0,0.4,1,NA,0.012,1.09105110168457,0.006,0.738597869873047,0.6,66.6666666666667
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0,0.6,1,NA,0.007,1.15953826904297,0.007,0.761046171188354,0,0
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0,0.8,1,NA,0.009,1.09983992576599,0.009,0.744630336761475,0,0
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0.2,0,1,NA,0.005,1.55308079719543,0.007,0.747026443481445,0.2,33.3333333333333
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0.2,0.2,1,NA,0.009,1.27183127403259,0.006,0.746557950973511,0.3,40
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0.2,0.4,1,NA,0.024,1.09676814079285,0.013,0.753435373306274,1.1,59.4594594594595
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0.2,0.6,1,NA,0.011,1.07066512107849,0.016,0.747121810913086,0.5,37.037037037037
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0.2,0.8,1,NA,0.01,1.10014009475708,0.015,0.743921041488647,0.5,40
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0.4,0,1,NA,0.024,1.10697984695435,0.018,0.749911785125732,0.6,28.5714285714286
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0.4,0.2,1,NA,0.028,1.0860698223114,0.014,0.995836973190308,1.4,66.6666666666667
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0.4,0.4,1,NA,0.039,1.15434265136719,0.023,0.830096483230591,1.6,51.6129032258064
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0.4,0.6,1,NA,0.025,1.08593845367432,0.026,0.915069341659546,0.0999999999999997,3.92156862745097
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0.4,0.8,1,NA,0.023,1.10392642021179,0.024,0.745296955108643,0.1,4.25531914893617
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0.6,0,1,NA,0.065,1.07962942123413,0.043,0.758996248245239,2.2,40.7407407407407
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0.6,0.2,1,NA,0.072,1.09757471084595,0.034,0.761934995651245,3.8,71.6981132075472
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0.6,0.4,1,NA,0.071,1.13023090362549,0.041,0.780441045761108,3,53.5714285714286
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0.6,0.6,1,NA,0.061,1.10491728782654,0.042,0.947868824005127,1.9,36.8932038834951
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0.6,0.8,1,NA,0.069,1.09575796127319,0.036,0.742569208145142,3.3,62.8571428571429
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0.8,0,1,NA,0.13,1.10060906410217,0.089,0.779522895812988,4.1,37.4429223744292
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0.8,0.2,1,NA,0.13,1.13926386833191,0.086,0.761537313461304,4.4,40.7407407407407
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0.8,0.4,1,NA,0.132,1.09801054000854,0.088,0.728092432022095,4.4,40
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0.8,0.6,1,NA,0.152,1.17115330696106,0.089,0.745482921600342,6.3,52.2821576763486
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",0.8,0.8,1,NA,0.135,1.19730353355408,0.082,0.746760129928589,5.3,48.8479262672811
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",1,0,1,NA,0.244,1.11456918716431,0.163,0.75605845451355,8.1,39.8034398034398
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",1,0.2,1,NA,0.264,1.31233954429626,0.177,0.835344076156616,8.7,39.4557823129252
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",1,0.4,1,NA,0.256,1.06578707695007,0.167,0.745673418045044,8.9,42.080378250591
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",1,0.6,1,NA,0.25,1.09793400764465,0.171,0.923696994781494,7.9,37.5296912114014
+"Transformación Centered Log Ratio (clr)","mvnorm",0.01,1000,300,3,"unequal",1,0.8,1,NA,0.252,1.10101795196533,0.172,0.757641553878784,8,37.7358490566038
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0,0,1,NA,0,1.06286668777466,0,0.726277589797974,0,NA
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0,0.2,1,NA,0.001,1.11433410644531,0,0.758756637573242,0.1,200
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0,0.4,1,NA,0,1.09665679931641,0,0.74098801612854,0,NA
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0,0.6,1,NA,0,1.16413068771362,0,0.752718448638916,0,NA
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0,0.8,1,NA,0,1.0848925113678,0,0.762279033660889,0,NA
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0.2,0,1,NA,0,1.11450743675232,0,0.723449230194092,0,NA
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0.2,0.2,1,NA,0.002,1.10261249542236,0,0.748163223266602,0.2,200
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0.2,0.4,1,NA,0.003,1.15646958351135,0.001,0.776701927185059,0.2,100
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0.2,0.6,1,NA,0.002,1.39050626754761,0,0.7421555519104,0.2,200
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0.2,0.8,1,NA,0.002,1.09709882736206,0,0.742663383483887,0.2,200
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0.4,0,1,NA,0.001,1.1348991394043,0.001,0.776186227798462,0,0
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0.4,0.2,1,NA,0.007,1.57328677177429,0.001,0.72810697555542,0.6,150
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0.4,0.4,1,NA,0.007,1.19217538833618,0.002,0.767860412597656,0.5,111.111111111111
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0.4,0.6,1,NA,0.005,1.08238172531128,0.001,0.913799047470093,0.4,133.333333333333
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0.4,0.8,1,NA,0.005,1.07646036148071,0,0.74921178817749,0.5,200
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0.6,0,1,NA,0.013,1.07829332351685,0.003,0.739498615264893,1,125
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0.6,0.2,1,NA,0.017,1.06358814239502,0.003,0.934623956680298,1.4,140
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0.6,0.4,1,NA,0.017,1.08234858512878,0.004,0.746835231781006,1.3,123.809523809524
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0.6,0.6,1,NA,0.019,1.07629752159119,0.007,0.756579637527466,1.2,92.3076923076923
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0.6,0.8,1,NA,0.02,1.08808541297913,0.005,0.745807647705078,1.5,120
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0.8,0,1,NA,0.044,1.08425855636597,0.02,0.824973583221436,2.4,75
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0.8,0.2,1,NA,0.044,1.26107239723206,0.017,0.752543687820435,2.7,88.5245901639344
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0.8,0.4,1,NA,0.051,1.22033739089966,0.021,0.762163877487183,3,83.3333333333333
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0.8,0.6,1,NA,0.049,1.10309529304504,0.022,0.743826150894165,2.7,76.056338028169
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",0.8,0.8,1,NA,0.046,1.12384438514709,0.02,0.756192684173584,2.6,78.7878787878788
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",1,0,1,NA,0.112,1.0994987487793,0.051,0.742467403411865,6.1,74.8466257668712
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",1,0.2,1,NA,0.105,1.10008454322815,0.05,0.745048522949219,5.5,70.9677419354839
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",1,0.4,1,NA,0.096,1.1104576587677,0.046,0.890471696853638,5,70.4225352112676
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",1,0.6,1,NA,0.111,1.06811547279358,0.046,0.743720531463623,6.5,82.8025477707006
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"equal",1,0.8,1,NA,0.116,1.16059970855713,0.043,0.744741678237915,7.3,91.8238993710692
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0,0,1,NA,0,1.16980123519897,0,0.743504762649536,0,NA
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0,0.2,1,NA,0.001,1.22928047180176,0,0.748053789138794,0.1,200
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0,0.4,1,NA,0.001,1.08169603347778,0.002,0.74323844909668,0.1,66.6666666666667
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0,0.6,1,NA,0.001,1.11906599998474,0,0.744124412536621,0.1,200
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0,0.8,1,NA,0.001,1.14263463020325,0,0.754657745361328,0.1,200
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0.2,0,1,NA,0,1.15818810462952,0.001,0.761819124221802,0.1,200
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0.2,0.2,1,NA,0.001,1.19316697120667,0,0.746041536331177,0.1,200
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0.2,0.4,1,NA,0.002,1.1045081615448,0.002,0.753071069717407,0,0
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0.2,0.6,1,NA,0.002,1.06310796737671,0.002,0.725571870803833,0,0
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0.2,0.8,1,NA,0.002,1.08487153053284,0.002,0.745797872543335,0,0
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0.4,0,1,NA,0.001,1.41019773483276,0.001,0.753867626190186,0,0
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0.4,0.2,1,NA,0.005,1.08119034767151,0.002,0.743139743804932,0.3,85.7142857142857
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0.4,0.4,1,NA,0.008,1.08455538749695,0.002,0.762028694152832,0.6,120
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0.4,0.6,1,NA,0.005,1.08976984024048,0.004,0.764644145965576,0.1,22.2222222222222
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0.4,0.8,1,NA,0.005,1.11356353759766,0.004,0.76118540763855,0.1,22.2222222222222
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0.6,0,1,NA,0.008,1.06996822357178,0.003,0.767244100570679,0.5,90.9090909090909
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0.6,0.2,1,NA,0.015,1.11198449134827,0.007,0.84536337852478,0.8,72.7272727272727
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0.6,0.4,1,NA,0.019,1.102623462677,0.009,0.743429899215698,1,71.4285714285714
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0.6,0.6,1,NA,0.011,1.09936690330505,0.01,0.770825862884521,0.0999999999999999,9.52380952380952
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0.6,0.8,1,NA,0.007,1.15419030189514,0.007,0.791407823562622,0,0
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0.8,0,1,NA,0.036,1.09954619407654,0.014,0.939174175262451,2.2,88
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0.8,0.2,1,NA,0.044,1.09570050239563,0.018,0.761048316955566,2.6,83.8709677419355
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0.8,0.4,1,NA,0.047,1.13857197761536,0.025,0.820916652679443,2.2,61.1111111111111
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0.8,0.6,1,NA,0.031,1.11854362487793,0.018,0.730109214782715,1.3,53.0612244897959
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",0.8,0.8,1,NA,0.033,1.1550760269165,0.016,0.735752820968628,1.7,69.3877551020408
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",1,0,1,NA,0.084,1.10562109947205,0.041,0.762235403060913,4.3,68.8
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",1,0.2,1,NA,0.091,1.11845445632935,0.045,0.763756036758423,4.6,67.6470588235294
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",1,0.4,1,NA,0.09,1.10132312774658,0.046,0.775474071502686,4.4,64.7058823529412
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",1,0.6,1,NA,0.082,1.10918235778809,0.041,0.745587587356567,4.1,66.6666666666667
+"Transformación Centered Log Ratio (clr)","mvnorm",0.001,1000,300,3,"unequal",1,0.8,1,NA,0.087,1.18330574035645,0.04,0.759633541107178,4.7,74.0157480314961
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0,0,1,NA,0.047,1.04587149620056,0.052,0.688852071762085,0.5,10.1010101010101
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0,0.2,1,NA,0.039,1.13473582267761,0.05,0.6807701587677,1.1,24.7191011235955
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0,0.4,1,NA,0.045,1.33100152015686,0.05,0.67817211151123,0.5,10.5263157894737
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0,0.6,1,NA,0.05,1.0885763168335,0.051,0.693854808807373,0.0999999999999994,1.98019801980197
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0,0.8,1,NA,0.049,1.09128355979919,0.052,0.693101644515991,0.3,5.94059405940593
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0.2,0,1,NA,0.965,1.0683765411377,0.965,0.712773323059082,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0.2,0.2,1,NA,0.949,1.09023308753967,0.891,0.728050231933594,5.79999999999999,6.30434782608695
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0.2,0.4,1,NA,0.906,1.09236097335815,0.777,0.690290689468384,12.9,15.3297682709447
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0.2,0.6,1,NA,0.849,1.10488104820251,0.665,0.694863796234131,18.4,24.3064729194188
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0.2,0.8,1,NA,0.786,1.06373977661133,0.582,0.692723512649536,20.4,29.8245614035088
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0.4,0,1,NA,1,1.07804942131042,1,0.690131425857544,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0.4,0.2,1,NA,1,1.0917055606842,1,0.672236919403076,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0.4,0.4,1,NA,1,1.35104084014893,1,0.709484577178955,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0.4,0.6,1,NA,1,1.09726643562317,1,0.691377878189087,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0.4,0.8,1,NA,1,1.14041972160339,0.999,0.721983432769775,0.1,0.100050025012506
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0.6,0,1,NA,1,1.07228112220764,1,0.690097332000732,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0.6,0.2,1,NA,1,1.10034203529358,1,0.694283485412598,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0.6,0.4,1,NA,1,1.12584471702576,1,0.714292049407959,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0.6,0.6,1,NA,1,1.10353755950928,1,0.709755897521973,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0.6,0.8,1,NA,1,1.17666101455688,1,0.702721834182739,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0.8,0,1,NA,1,1.09274816513062,1,0.70896053314209,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0.8,0.2,1,NA,1,1.10861897468567,1,0.689854621887207,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0.8,0.4,1,NA,1,1.11108922958374,1,0.711899042129517,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0.8,0.6,1,NA,1,1.10321140289307,1,0.690232038497925,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",0.8,0.8,1,NA,1,1.18646430969238,1,0.752516508102417,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",1,0,1,NA,1,1.31481194496155,1,0.727468729019165,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",1,0.2,1,NA,1,1.096360206604,1,0.731579303741455,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",1,0.4,1,NA,1,1.13663339614868,1,0.710681915283203,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",1,0.6,1,NA,1,1.1117000579834,1,0.693918943405151,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"equal",1,0.8,1,NA,1,1.16663360595703,1,0.729631662368774,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0,0,1,NA,0.042,1.09251141548157,0.049,0.694834470748901,0.7,15.3846153846154
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0,0.2,1,NA,0.043,1.08709764480591,0.049,0.675451278686523,0.6,13.0434782608696
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0,0.4,1,NA,0.049,1.08986520767212,0.051,0.711107730865479,0.199999999999999,3.99999999999999
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0,0.6,1,NA,0.047,1.08415484428406,0.05,0.704983949661255,0.3,6.18556701030928
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0,0.8,1,NA,0.047,1.10960078239441,0.051,0.710336685180664,0.4,8.16326530612244
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0.2,0,1,NA,1,1.09210729598999,1,0.70758056640625,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0.2,0.2,1,NA,1,1.09621119499207,1,0.709444761276245,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0.2,0.4,1,NA,1,1.14098787307739,1,0.7013840675354,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0.2,0.6,1,NA,1,1.12035584449768,1,0.725121736526489,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0.2,0.8,1,NA,1,1.17297911643982,1,0.961940050125122,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0.4,0,1,NA,1,1.09670114517212,1,0.70925235748291,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0.4,0.2,1,NA,1,1.43155193328857,1,0.686480522155762,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0.4,0.4,1,NA,1,1.12251281738281,1,0.676320552825928,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0.4,0.6,1,NA,1,1.15097451210022,1,0.692737817764282,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0.4,0.8,1,NA,1,1.25834631919861,1,0.688768863677979,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0.6,0,1,NA,1,1.07300400733948,1,0.713990449905396,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0.6,0.2,1,NA,1,1.29704761505127,1,0.694978475570679,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0.6,0.4,1,NA,1,1.04382824897766,1,0.703173875808716,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0.6,0.6,1,NA,1,1.16221642494202,1,0.683881282806396,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0.6,0.8,1,NA,1,1.24825429916382,1,0.680702686309814,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0.8,0,1,NA,1,1.07138776779175,1,0.68260908126831,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0.8,0.2,1,NA,1,1.06044983863831,1,0.699121952056885,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0.8,0.4,1,NA,1,1.09326887130737,1,0.683467388153076,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0.8,0.6,1,NA,1,1.29600882530212,1,0.682772874832153,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",0.8,0.8,1,NA,1,1.22863411903381,1,0.679961919784546,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",1,0,1,NA,1,1.06914567947388,1,0.806406259536743,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",1,0.2,1,NA,1,1.07362604141235,1,0.683481216430664,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",1,0.4,1,NA,1,1.12196040153503,1,0.681623458862305,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",1,0.6,1,NA,1,1.10126280784607,1,0.681947231292725,0,0
+"Transformación logarítmica","mvnorm",0.05,1000,300,3,"unequal",1,0.8,1,NA,1,1.25144934654236,1,0.700109481811523,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0,0,1,NA,0.004,1.06576919555664,0.003,0.700302362442017,0.1,28.5714285714286
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0,0.2,1,NA,0.01,1.433673620224,0.003,0.850844860076904,0.7,107.692307692308
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0,0.4,1,NA,0.012,1.08303785324097,0.005,0.704299211502075,0.7,82.3529411764706
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0,0.6,1,NA,0.012,1.08422517776489,0.005,0.696649312973022,0.7,82.3529411764706
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0,0.8,1,NA,0.012,1.06712055206299,0.007,0.698465585708618,0.5,52.6315789473684
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0.2,0,1,NA,0.904,1.04692673683167,0.892,0.698847055435181,1.2,1.33630289532294
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0.2,0.2,1,NA,0.857,1.48437476158142,0.746,0.679975986480713,11.1,13.8490330630069
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0.2,0.4,1,NA,0.767,1.05343103408813,0.55,0.683500289916992,21.7,32.953682611997
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0.2,0.6,1,NA,0.65,1.07839393615723,0.418,0.662569284439087,23.2,43.4456928838951
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0.2,0.8,1,NA,0.548,1.03787708282471,0.329,0.681995630264282,21.9,49.9429874572406
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0.4,0,1,NA,1,1.07881140708923,1,0.691298961639404,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0.4,0.2,1,NA,1,1.06009244918823,1,0.685348033905029,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0.4,0.4,1,NA,1,1.23803186416626,1,0.678853988647461,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0.4,0.6,1,NA,1,1.04856419563293,0.999,0.674085855484009,0.1,0.100050025012506
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0.4,0.8,1,NA,0.998,1.08086180686951,0.995,0.679724454879761,0.3,0.301053687907677
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0.6,0,1,NA,1,1.12347602844238,1,0.678616762161255,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0.6,0.2,1,NA,1,1.07490134239197,1,0.684042930603027,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0.6,0.4,1,NA,1,1.07263588905334,1,0.851746559143066,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0.6,0.6,1,NA,1,1.05479192733765,1,0.679002046585083,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0.6,0.8,1,NA,1,1.11190962791443,1,0.660592317581177,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0.8,0,1,NA,1,1.02465295791626,1,0.695599794387817,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0.8,0.2,1,NA,1,1.22146725654602,1,0.677410840988159,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0.8,0.4,1,NA,1,1.28086972236633,1,0.687340974807739,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0.8,0.6,1,NA,1,1.07363104820251,1,0.674782991409302,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",0.8,0.8,1,NA,1,1.12156558036804,1,0.661209583282471,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",1,0,1,NA,1,1.04699897766113,1,0.681430578231812,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",1,0.2,1,NA,1,1.04091596603394,1,0.674362659454346,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",1,0.4,1,NA,1,1.05792164802551,1,0.682860851287842,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",1,0.6,1,NA,1,1.21357989311218,1,0.681246757507324,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"equal",1,0.8,1,NA,1,1.11158132553101,1,0.678006410598755,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0,0,1,NA,0.008,1.08580899238586,0.003,0.85651421546936,0.5,90.9090909090909
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0,0.2,1,NA,0.009,1.1083664894104,0.003,0.678537368774414,0.6,100
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0,0.4,1,NA,0.011,1.03713655471802,0.005,0.655226707458496,0.6,75
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0,0.6,1,NA,0.011,1.14194202423096,0.002,0.683979034423828,0.9,138.461538461538
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0,0.8,1,NA,0.012,1.23824620246887,0.002,0.697263956069946,1,142.857142857143
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0.2,0,1,NA,1,1.10398936271667,1,0.679805517196655,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0.2,0.2,1,NA,1,1.08801341056824,1,0.69563627243042,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0.2,0.4,1,NA,1,1.08875012397766,1,0.821801900863647,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0.2,0.6,1,NA,1,1.40362930297852,0.999,0.65934419631958,0.1,0.100050025012506
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0.2,0.8,1,NA,0.998,1.0855131149292,1,0.678167819976807,0.2,0.2002002002002
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0.4,0,1,NA,1,1.05425691604614,1,0.66377067565918,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0.4,0.2,1,NA,1,1.05051732063293,1,0.661958694458008,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0.4,0.4,1,NA,1,1.08850336074829,1,0.6663978099823,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0.4,0.6,1,NA,1,1.11964464187622,1,0.661828994750977,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0.4,0.8,1,NA,1,1.22997426986694,1,0.679714441299438,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0.6,0,1,NA,1,1.06282997131348,1,0.675922870635986,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0.6,0.2,1,NA,1,1.04787015914917,1,0.679069519042969,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0.6,0.4,1,NA,1,1.25,1,0.693887948989868,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0.6,0.6,1,NA,1,1.0893919467926,1,0.693960905075073,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0.6,0.8,1,NA,1,1.22382521629333,1,0.6941819190979,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0.8,0,1,NA,1,1.06781196594238,1,0.696182250976562,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0.8,0.2,1,NA,1,1.08176350593567,1,0.863874197006226,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0.8,0.4,1,NA,1,1.14412546157837,1,0.67670464515686,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0.8,0.6,1,NA,1,1.09457349777222,1,0.678497552871704,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",0.8,0.8,1,NA,1,1.24368095397949,1,0.67823052406311,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",1,0,1,NA,1,1.14682388305664,1,1.04344367980957,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",1,0.2,1,NA,1,1.08206152915955,1,0.694069147109985,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",1,0.4,1,NA,1,1.05550479888916,1,0.678200960159302,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",1,0.6,1,NA,1,1.3887927532196,1,0.659149646759033,0,0
+"Transformación logarítmica","mvnorm",0.01,1000,300,3,"unequal",1,0.8,1,NA,1,1.23926496505737,1,0.690530776977539,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0,0,1,NA,0,1.07509207725525,0,0.659486532211304,0,NA
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0,0.2,1,NA,0,1.44802498817444,0,0.8505539894104,0,NA
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0,0.4,1,NA,0,1.07637023925781,0,0.676756858825684,0,NA
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0,0.6,1,NA,0.001,1.05843591690063,0,0.77881646156311,0.1,200
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0,0.8,1,NA,0.001,1.34093976020813,0,0.68167781829834,0.1,200
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0.2,0,1,NA,0.733,1.42641282081604,0.698,0.829860925674438,3.5,4.89168413696716
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0.2,0.2,1,NA,0.678,1.23951005935669,0.463,0.697655439376831,21.5,37.6862401402279
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0.2,0.4,1,NA,0.489,1.15620684623718,0.258,0.701674222946167,23.1,61.8473895582329
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0.2,0.6,1,NA,0.379,1.31175422668457,0.175,0.712532758712769,20.4,73.6462093862816
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0.2,0.8,1,NA,0.285,1.09103989601135,0.131,0.695006608963013,15.4,74.0384615384615
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0.4,0,1,NA,1,1.09813070297241,1,0.703707456588745,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0.4,0.2,1,NA,1,1.10883164405823,1,0.697018384933472,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0.4,0.4,1,NA,1,1.15582418441772,0.998,0.677490949630737,0.2,0.2002002002002
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0.4,0.6,1,NA,0.998,1.14288401603699,0.988,0.643172979354858,1,1.00704934541793
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0.4,0.8,1,NA,0.995,1.1542341709137,0.956,0.681940793991089,3.9,3.99794976934906
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0.6,0,1,NA,1,1.07273411750793,1,0.655661821365356,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0.6,0.2,1,NA,1,1.08096075057983,1,0.676579236984253,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0.6,0.4,1,NA,1,1.02861094474792,1,0.679199695587158,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0.6,0.6,1,NA,1,1.06418776512146,1,0.700369119644165,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0.6,0.8,1,NA,1,1.11344528198242,1,0.677928686141968,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0.8,0,1,NA,1,1.0437638759613,1,0.67700982093811,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0.8,0.2,1,NA,1,1.07523393630981,1,0.845118284225464,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0.8,0.4,1,NA,1,1.02738070487976,1,0.676618099212646,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0.8,0.6,1,NA,1,1.07209348678589,1,0.863166570663452,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",0.8,0.8,1,NA,1,1.32443499565125,1,0.692763805389404,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",1,0,1,NA,1,1.05953288078308,1,0.843458414077759,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",1,0.2,1,NA,1,1.12578368186951,1,0.661443948745728,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",1,0.4,1,NA,1,1.37043023109436,1,0.697868824005127,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",1,0.6,1,NA,1,1.3049111366272,1,0.681568622589111,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"equal",1,0.8,1,NA,1,1.09763598442078,1,0.695865392684937,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0,0,1,NA,0.001,1.05971097946167,0,0.694345712661743,0.1,200
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0,0.2,1,NA,0.001,1.06614398956299,0,0.683087348937988,0.1,200
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0,0.4,1,NA,0.001,1.06231665611267,0,0.676965951919556,0.1,200
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0,0.6,1,NA,0,1.05104851722717,0,0.695835828781128,0,NA
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0,0.8,1,NA,0.001,1.50876593589783,0,0.647583961486816,0.1,200
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0.2,0,1,NA,1,1.0613157749176,1,0.777835369110107,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0.2,0.2,1,NA,0.999,1.13706421852112,1,0.660605907440186,0.1,0.100050025012506
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0.2,0.4,1,NA,0.998,1.17225527763367,0.999,1.04490923881531,0.1,0.100150225338007
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0.2,0.6,1,NA,0.985,1.09276843070984,0.994,0.694790124893188,0.900000000000001,0.909550277918141
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0.2,0.8,1,NA,0.956,1.12148690223694,0.997,0.696112871170044,4.1,4.19866871479775
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0.4,0,1,NA,1,1.0204746723175,1,0.670562505722046,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0.4,0.2,1,NA,1,1.05089092254639,1,0.677351951599121,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0.4,0.4,1,NA,1,1.07919812202454,1,0.661565542221069,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0.4,0.6,1,NA,1,1.08231139183044,1,0.756272315979004,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0.4,0.8,1,NA,1,1.22689914703369,1,0.69489336013794,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0.6,0,1,NA,1,1.04331851005554,1,0.772851467132568,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0.6,0.2,1,NA,1,1.0644383430481,1,0.683299541473389,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0.6,0.4,1,NA,1,1.23095893859863,1,0.695245265960693,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0.6,0.6,1,NA,1,1.07641577720642,1,0.678152084350586,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0.6,0.8,1,NA,1,1.29914784431458,1,0.691694736480713,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0.8,0,1,NA,1,1.07979416847229,1,0.677849769592285,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0.8,0.2,1,NA,1,1.0683901309967,1,0.68056058883667,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0.8,0.4,1,NA,1,1.09410905838013,1,0.691962242126465,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0.8,0.6,1,NA,1,1.08990049362183,1,0.741888761520386,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",0.8,0.8,1,NA,1,1.62831020355225,1,0.672323942184448,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",1,0,1,NA,1,1.06709384918213,1,0.677503108978271,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",1,0.2,1,NA,1,1.08907699584961,1,0.754797220230103,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",1,0.4,1,NA,1,1.44616317749023,1,0.705411195755005,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",1,0.6,1,NA,1,1.11087155342102,1,0.696744203567505,0,0
+"Transformación logarítmica","mvnorm",0.001,1000,300,3,"unequal",1,0.8,1,NA,1,1.26648330688477,1,0.692286968231201,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0,0,1,NA,0.047,1.09710335731506,0.052,0.683053731918335,0.5,10.1010101010101
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0,0.2,1,NA,0.04,1.09409189224243,0.051,1.46694016456604,1.1,24.1758241758242
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0,0.4,1,NA,0.042,1.10710763931274,0.051,0.706360101699829,0.9,19.3548387096774
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0,0.6,1,NA,0.048,1.10052156448364,0.051,0.667344808578491,0.3,6.06060606060605
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0,0.8,1,NA,0.048,1.30908370018005,0.051,0.701830148696899,0.3,6.06060606060605
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0.2,0,1,NA,0.964,1.40468645095825,0.966,0.685021877288818,0.2,0.207253886010363
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0.2,0.2,1,NA,0.948,1.07824540138245,0.89,0.70543622970581,5.79999999999999,6.31120783460282
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0.2,0.4,1,NA,0.909,1.07679605484009,0.778,0.921323299407959,13.1,15.5305275637226
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0.2,0.6,1,NA,0.849,1.09646439552307,0.663,0.717493772506714,18.6,24.6031746031746
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0.2,0.8,1,NA,0.792,1.33250331878662,0.576,0.703195095062256,21.6,31.5789473684211
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0.4,0,1,NA,1,1.07772445678711,1,0.725472450256348,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0.4,0.2,1,NA,1,1.11213254928589,1,0.701579809188843,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0.4,0.4,1,NA,1,1.11581945419312,1,0.702301502227783,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0.4,0.6,1,NA,1,1.10121941566467,1,0.68490481376648,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0.4,0.8,1,NA,1,1.13885068893433,0.999,0.710908889770508,0.1,0.100050025012506
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0.6,0,1,NA,1,1.37919092178345,1,0.706013917922974,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0.6,0.2,1,NA,1,1.08582472801208,1,0.707376956939697,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0.6,0.4,1,NA,1,1.0876944065094,1,0.690152168273926,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0.6,0.6,1,NA,1,1.10449767112732,1,0.668217897415161,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0.6,0.8,1,NA,1,1.16595983505249,1,0.714378595352173,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0.8,0,1,NA,1,1.07486748695374,1,0.712464570999146,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0.8,0.2,1,NA,1,1.42149472236633,1,0.665600538253784,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0.8,0.4,1,NA,1,1.08138084411621,1,0.667573928833008,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0.8,0.6,1,NA,1,1.08935952186584,1,0.666570663452148,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",0.8,0.8,1,NA,1,1.47213077545166,1,0.677348613739014,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",1,0,1,NA,1,1.05628085136414,1,0.683729410171509,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",1,0.2,1,NA,1,1.08202362060547,1,0.684859752655029,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",1,0.4,1,NA,1,1.06639981269836,1,0.93047046661377,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",1,0.6,1,NA,1,1.07712936401367,1,0.689381122589111,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"equal",1,0.8,1,NA,1,1.11270356178284,1,0.691291809082031,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0,0,1,NA,0.043,1.06887984275818,0.05,0.68558669090271,0.700000000000001,15.0537634408602
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0,0.2,1,NA,0.043,1.0420298576355,0.051,0.683303833007812,0.8,17.0212765957447
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0,0.4,1,NA,0.048,1.09961414337158,0.051,0.684004068374634,0.3,6.06060606060605
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0,0.6,1,NA,0.046,1.12441182136536,0.049,0.676090478897095,0.3,6.31578947368422
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0,0.8,1,NA,0.047,1.08452153205872,0.049,0.666563749313354,0.2,4.16666666666667
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0.2,0,1,NA,1,1.06165599822998,1,0.682883262634277,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0.2,0.2,1,NA,1,1.09618449211121,1,0.684472799301147,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0.2,0.4,1,NA,1,1.32168579101562,1,0.680612087249756,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0.2,0.6,1,NA,1,1.05464100837708,1,0.683073997497559,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0.2,0.8,1,NA,1,1.1345317363739,1,0.668508052825928,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0.4,0,1,NA,1,1.04561400413513,1,0.684401988983154,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0.4,0.2,1,NA,1,1.08380270004272,1,0.915199756622314,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0.4,0.4,1,NA,1,1.07816290855408,1,0.685660123825073,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0.4,0.6,1,NA,1,1.1109926700592,1,0.687544822692871,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0.4,0.8,1,NA,1,1.23958849906921,1,0.685978889465332,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0.6,0,1,NA,1,1.09113717079163,1,0.703138589859009,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0.6,0.2,1,NA,1,1.163161277771,1,0.785388708114624,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0.6,0.4,1,NA,1,1.07573461532593,1,0.680767297744751,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0.6,0.6,1,NA,1,1.09159684181213,1,0.696841239929199,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0.6,0.8,1,NA,1,1.22589731216431,1,0.698848247528076,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0.8,0,1,NA,1,1.1110565662384,1,0.700150728225708,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0.8,0.2,1,NA,1,1.15074682235718,1,0.679672002792358,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0.8,0.4,1,NA,1,1.07202339172363,1,0.682573318481445,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0.8,0.6,1,NA,1,1.11486554145813,1,0.681915283203125,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",0.8,0.8,1,NA,1,1.2636399269104,1,1.22379946708679,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",1,0,1,NA,1,1.09593558311462,1,0.819232940673828,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",1,0.2,1,NA,1,1.09588813781738,1,0.682413101196289,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",1,0.4,1,NA,1,1.39714002609253,1,0.680854082107544,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",1,0.6,1,NA,1,1.09149193763733,1,0.680280208587646,0,0
+"Transformación raíz cuadrada","mvnorm",0.05,1000,300,3,"unequal",1,0.8,1,NA,1,1.26337480545044,1,0.680871486663818,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0,0,1,NA,0.005,1.0475013256073,0.003,0.662210941314697,0.2,50
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0,0.2,1,NA,0.009,1.07869601249695,0.003,0.678880214691162,0.6,100
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0,0.4,1,NA,0.012,1.08506035804749,0.004,0.679691791534424,0.8,100
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0,0.6,1,NA,0.012,1.11756801605225,0.004,0.725695133209229,0.8,100
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0,0.8,1,NA,0.011,1.22355508804321,0.005,0.7298903465271,0.6,75
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0.2,0,1,NA,0.907,1.06313848495483,0.894,0.679291009902954,1.3,1.44364242087729
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0.2,0.2,1,NA,0.858,1.04322838783264,0.747,0.678229093551636,11.1,13.8317757009346
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0.2,0.4,1,NA,0.773,1.04537534713745,0.547,0.68017840385437,22.6,34.2424242424242
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0.2,0.6,1,NA,0.649,1.049884557724,0.421,0.67984676361084,22.8,42.6168224299065
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0.2,0.8,1,NA,0.545,1.05412435531616,0.33,0.679235696792603,21.5,49.1428571428571
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0.4,0,1,NA,1,1.34851717948914,1,0.688268899917603,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0.4,0.2,1,NA,1,1.24860548973083,1,0.682986736297607,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0.4,0.4,1,NA,1,1.04263925552368,1,0.696126461029053,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0.4,0.6,1,NA,1,1.1709361076355,0.999,0.737576961517334,0.1,0.100050025012506
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0.4,0.8,1,NA,0.998,1.07684636116028,0.995,0.848890542984009,0.3,0.301053687907677
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0.6,0,1,NA,1,1.04545211791992,1,0.693969249725342,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0.6,0.2,1,NA,1,1.11397290229797,1,0.679613590240479,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0.6,0.4,1,NA,1,1.05930614471436,1,0.675136089324951,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0.6,0.6,1,NA,1,1.06787157058716,1,0.850501537322998,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0.6,0.8,1,NA,1,1.39063787460327,1,0.695270299911499,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0.8,0,1,NA,1,1.0566577911377,1,0.851270198822021,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0.8,0.2,1,NA,1,1.05824160575867,1,0.676949262619019,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0.8,0.4,1,NA,1,1.07905650138855,1,0.703090190887451,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0.8,0.6,1,NA,1,1.07099556922913,1,1.05797576904297,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",0.8,0.8,1,NA,1,1.13087821006775,1,0.773666143417358,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",1,0,1,NA,1,1.06107926368713,1,0.694768190383911,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",1,0.2,1,NA,1,1.22806191444397,1,0.745841979980469,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",1,0.4,1,NA,1,1.25269651412964,1,0.681116342544556,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",1,0.6,1,NA,1,1.06371569633484,1,0.677826166152954,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"equal",1,0.8,1,NA,1,1.12680912017822,1,0.747048616409302,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0,0,1,NA,0.008,1.0425865650177,0.003,0.693482637405396,0.5,90.9090909090909
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0,0.2,1,NA,0.009,1.1211109161377,0.003,0.693078517913818,0.6,100
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0,0.4,1,NA,0.01,1.05483055114746,0.004,0.69605278968811,0.6,85.7142857142857
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0,0.6,1,NA,0.011,1.09426474571228,0.003,0.648711442947388,0.8,114.285714285714
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0,0.8,1,NA,0.012,1.04689383506775,0.002,0.659176826477051,1,142.857142857143
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0.2,0,1,NA,1,1.02741503715515,1,0.775984287261963,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0.2,0.2,1,NA,1,1.04341435432434,1,0.657739400863647,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0.2,0.4,1,NA,1,1.26107573509216,1,0.721747398376465,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0.2,0.6,1,NA,1,1.05673503875732,0.999,0.682536840438843,0.1,0.100050025012506
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0.2,0.8,1,NA,0.998,1.07972979545593,1,0.769262075424194,0.2,0.2002002002002
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0.4,0,1,NA,1,1.22463488578796,1,0.701566219329834,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0.4,0.2,1,NA,1,1.06555819511414,1,0.696773052215576,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0.4,0.4,1,NA,1,1.09693121910095,1,0.684789896011353,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0.4,0.6,1,NA,1,1.09483885765076,1,0.698425054550171,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0.4,0.8,1,NA,1,1.41451716423035,1,0.678085088729858,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0.6,0,1,NA,1,1.05717468261719,1,0.845669507980347,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0.6,0.2,1,NA,1,1.08148169517517,1,0.820398807525635,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0.6,0.4,1,NA,1,1.12930512428284,1,0.725605487823486,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0.6,0.6,1,NA,1,1.10643029212952,1,1.02028441429138,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0.6,0.8,1,NA,1,1.2685215473175,1,0.67467737197876,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0.8,0,1,NA,1,1.06102609634399,1,0.676576137542725,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0.8,0.2,1,NA,1,1.08308243751526,1,0.67131233215332,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0.8,0.4,1,NA,1,1.04782962799072,1,0.657343864440918,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0.8,0.6,1,NA,1,1.18546867370605,1,0.756182193756104,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",0.8,0.8,1,NA,1,1.25691890716553,1,0.67703127861023,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",1,0,1,NA,1,1.12555813789368,1,0.688894510269165,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",1,0.2,1,NA,1,1.02559804916382,1,0.675814390182495,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",1,0.4,1,NA,1,1.15134215354919,1,0.678715944290161,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",1,0.6,1,NA,1,1.05133843421936,1,0.676805019378662,0,0
+"Transformación raíz cuadrada","mvnorm",0.01,1000,300,3,"unequal",1,0.8,1,NA,1,1.24985861778259,1,0.731692552566528,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0,0,1,NA,0,1.16328120231628,0,0.864066123962402,0,NA
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0,0.2,1,NA,0,1.04066061973572,0,0.694857120513916,0,NA
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0,0.4,1,NA,0,1.13403367996216,0,0.832185983657837,0,NA
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0,0.6,1,NA,0.001,1.07098197937012,0,0.686485767364502,0.1,200
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0,0.8,1,NA,0.001,1.06368517875671,0,0.69653058052063,0.1,200
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0.2,0,1,NA,0.735,1.06965708732605,0.697,0.655653238296509,3.8,5.30726256983241
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0.2,0.2,1,NA,0.681,1.09509801864624,0.465,0.679377317428589,21.6,37.696335078534
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0.2,0.4,1,NA,0.491,1.36063885688782,0.259,0.681596279144287,23.2,61.8666666666667
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0.2,0.6,1,NA,0.379,1.13055443763733,0.175,0.663331508636475,20.4,73.6462093862816
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0.2,0.8,1,NA,0.28,1.04523992538452,0.127,0.674972295761108,15.3,75.1842751842752
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0.4,0,1,NA,1,1.12398791313171,1,0.859472036361694,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0.4,0.2,1,NA,1,1.05991315841675,1,0.676089763641357,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0.4,0.4,1,NA,1,1.02139210700989,0.998,0.657513618469238,0.2,0.2002002002002
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0.4,0.6,1,NA,0.998,1.12958240509033,0.989,0.678200721740723,0.900000000000001,0.905888273779568
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0.4,0.8,1,NA,0.994,1.28517603874207,0.956,0.691838264465332,3.8,3.8974358974359
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0.6,0,1,NA,1,1.03479170799255,1,0.839367866516113,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0.6,0.2,1,NA,1,1.05910134315491,1,0.780332565307617,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0.6,0.4,1,NA,1,1.04272985458374,1,0.676875591278076,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0.6,0.6,1,NA,1,1.06715154647827,1,0.698561668395996,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0.6,0.8,1,NA,1,1.12736940383911,1,0.676587104797363,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0.8,0,1,NA,1,1.05808138847351,1,0.677720308303833,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0.8,0.2,1,NA,1,1.08854103088379,1,0.719825506210327,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0.8,0.4,1,NA,1,1.04432725906372,1,0.699268341064453,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0.8,0.6,1,NA,1,1.04997253417969,1,0.785473346710205,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",0.8,0.8,1,NA,1,1.24442768096924,1,0.694721460342407,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",1,0,1,NA,1,1.05442261695862,1,1.12762784957886,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",1,0.2,1,NA,1,1.06051278114319,1,0.712915897369385,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",1,0.4,1,NA,1,1.12732148170471,1,0.70604681968689,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",1,0.6,1,NA,1,1.10984325408936,1,0.678052425384521,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"equal",1,0.8,1,NA,1,1.1122670173645,1,0.774317026138306,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0,0,1,NA,0.001,1.05955481529236,0,0.82756495475769,0.1,200
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0,0.2,1,NA,0.001,1.39195466041565,0,0.681523561477661,0.1,200
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0,0.4,1,NA,0.001,1.1371579170227,0,0.710264921188354,0.1,200
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0,0.6,1,NA,0.001,1.06571125984192,0,0.6760413646698,0.1,200
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0,0.8,1,NA,0.001,1.05814552307129,0,0.719931840896606,0.1,200
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0.2,0,1,NA,1,1.04124283790588,1,0.658791542053223,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0.2,0.2,1,NA,0.999,1.02663469314575,1,0.677024364471436,0.1,0.100050025012506
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0.2,0.4,1,NA,0.998,1.04759812355042,0.999,0.691779851913452,0.1,0.100150225338007
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0.2,0.6,1,NA,0.985,1.07187628746033,0.995,0.852457523345947,1,1.01010101010101
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0.2,0.8,1,NA,0.956,1.11974239349365,0.997,0.68068790435791,4.1,4.19866871479775
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0.4,0,1,NA,1,1.07245755195618,1,0.684006690979004,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0.4,0.2,1,NA,1,1.06347703933716,1,0.761612892150879,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0.4,0.4,1,NA,1,1.05276799201965,1,0.872065782546997,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0.4,0.6,1,NA,1,1.09845566749573,1,0.679391622543335,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0.4,0.8,1,NA,1,1.49288868904114,1,0.697684049606323,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0.6,0,1,NA,1,1.22935318946838,1,0.693055391311646,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0.6,0.2,1,NA,1,1.07191038131714,1,0.683140277862549,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0.6,0.4,1,NA,1,1.06745839118958,1,0.827618837356567,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0.6,0.6,1,NA,1,1.12530303001404,1,0.712137699127197,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0.6,0.8,1,NA,1,1.2540123462677,1,0.864797592163086,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0.8,0,1,NA,1,1.15629148483276,1,1.02568531036377,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0.8,0.2,1,NA,1,1.25309205055237,1,0.674973964691162,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0.8,0.4,1,NA,1,1.15386772155762,1,0.691683292388916,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0.8,0.6,1,NA,1,1.1601128578186,1,0.660038471221924,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",0.8,0.8,1,NA,1,1.22861909866333,1,0.86341667175293,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",1,0,1,NA,1,1.16620659828186,1,0.661223649978638,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",1,0.2,1,NA,1,1.02751278877258,1,0.676764011383057,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",1,0.4,1,NA,1,1.08663010597229,1,0.692123413085938,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",1,0.6,1,NA,1,1.24471068382263,1,0.676460027694702,0,0
+"Transformación raíz cuadrada","mvnorm",0.001,1000,300,3,"unequal",1,0.8,1,NA,1,1.42071223258972,1,0.689139127731323,0,0

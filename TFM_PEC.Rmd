@@ -1,0 +1,33 @@
+---
+# title: |
+#     Assessing the properties of asymptotic PERMANOVA
+#     test through comprehensive simulations in the
+#     context of genetic studies
+# titcrt: 'Properties of asymptotic PERMANOVA' # Título corto
+author: 'Aitor Invernón de Campos'
+# Nombre Tutores
+nomPDC: |
+    Miquel Calvo Llorca
+  
+    Diego Garrido-Martín 
+nomPRA: 'David Merino Arranz' # Nombre Profesorado Responsable Asignatura
+# Titulación
+titulac: |
+    Máster universitario de Bioinformática y
+    
+    Bioestadística (UOC, UB)
+area: 'Analisis de datos Ómicos' # Área del trabajo
+idioma: 'Castellano'
+credits: '15'
+parcla: 'Multivariate statistics; MANOVA; Asymptotic theory; PERMANOVA; Parametric; Non-parametric; Distance measure; Quadratic forms; Experimental design; Data visualization; Partitioning; Permutation tests; Canonical analysis; Resampling; Alternative Splicing; GWAS; RNA-Seq; QTL; sQTLs' # Palabras clave
+licenc: 'ccBy' #Posibles licencias: ccByNcNd, ccByNcSa, ccByNc, ccByNd, ccBySa, ccBy, GNU, copyright)
+abstractesp: "..." # Este será mi resumen.
+abstracteng: "..." # This will be my abstract.
+date: "`r format(Sys.time(), '%d/%m/%Y')`"
+output: 
+  bookdown::pdf_document2:
+    template: TFM_PEC_v0124.tex
+bibliography: TFM.bib
+---
+
+
